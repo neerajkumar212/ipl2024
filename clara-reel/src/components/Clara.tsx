@@ -16,9 +16,10 @@ export const Clara: React.FC<{
   mood?: ClaraMood;
   wave?: number; // 0..1 how much the right arm waves
   glow?: number;
-}> = ({ frame, size, mood = "talk", wave = 0, glow = 1 }) => {
+  env?: number[]; // per-frame voice envelope (defaults to the v1 narration)
+}> = ({ frame, size, mood = "talk", wave = 0, glow = 1, env: envTrack = ENV }) => {
   const s = frame / 30;
-  const env = ENV[Math.min(frame, ENV.length - 1)] ?? 0;
+  const env = envTrack[Math.min(frame, envTrack.length - 1)] ?? 0;
   const mouthH = 5 + env * 30;
   const mouthW = 40 + env * 14;
 

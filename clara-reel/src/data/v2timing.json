@@ -1,0 +1,1563 @@
+{
+ "total": 107.754,
+ "segments": [
+  {
+   "id": "hook",
+   "start": 0.35,
+   "end": 3.835,
+   "words": [
+    {
+     "text": "What",
+     "start": 0.35,
+     "end": 0.537
+    },
+    {
+     "text": "if",
+     "start": 0.537,
+     "end": 0.661
+    },
+    {
+     "text": "you",
+     "start": 0.661,
+     "end": 0.786
+    },
+    {
+     "text": "could",
+     "start": 0.786,
+     "end": 0.972
+    },
+    {
+     "text": "switch",
+     "start": 0.972,
+     "end": 1.283
+    },
+    {
+     "text": "on",
+     "start": 1.283,
+     "end": 1.408
+    },
+    {
+     "text": "a",
+     "start": 1.408,
+     "end": 1.532
+    },
+    {
+     "text": "single",
+     "start": 1.532,
+     "end": 1.906
+    },
+    {
+     "text": "brain",
+     "start": 1.906,
+     "end": 2.217
+    },
+    {
+     "text": "cell…",
+     "start": 2.217,
+     "end": 2.652
+    },
+    {
+     "text": "with",
+     "start": 2.652,
+     "end": 2.839
+    },
+    {
+     "text": "a",
+     "start": 2.839,
+     "end": 2.963
+    },
+    {
+     "text": "flash",
+     "start": 2.963,
+     "end": 3.212
+    },
+    {
+     "text": "of",
+     "start": 3.212,
+     "end": 3.337
+    },
+    {
+     "text": "light?",
+     "start": 3.337,
+     "end": 3.835
+    }
+   ],
+   "phonemes": "wˌʌt ɪf juː kʊd swˈɪtʃ ˌɔn ɐ sˈɪŋɡəl bɹˈeɪn sˈɛl... wɪð ɐ flˈæʃ ʌv lˈaɪt?"
+  },
+  {
+   "id": "intro",
+   "start": 4.185,
+   "end": 6.624,
+   "words": [
+    {
+     "text": "Hi,",
+     "start": 4.185,
+     "end": 4.591
+    },
+    {
+     "text": "I'm",
+     "start": 4.591,
+     "end": 4.794
+    },
+    {
+     "text": "Clara",
+     "start": 4.794,
+     "end": 5.133
+    },
+    {
+     "text": "from",
+     "start": 5.133,
+     "end": 5.404
+    },
+    {
+     "text": "Dr",
+     "start": 5.404,
+     "end": 5.743
+    },
+    {
+     "text": "Pharmacist.",
+     "start": 5.743,
+     "end": 6.624
+    }
+   ],
+   "phonemes": "hˈaɪ, aɪm klˈɑːɹə, fɹʌm dˈɑːktɚ fˈɑːɹmɐsˌɪst."
+  },
+  {
+   "id": "nobel",
+   "start": 6.824,
+   "end": 10.699,
+   "words": [
+    {
+     "text": "This",
+     "start": 6.824,
+     "end": 7.024
+    },
+    {
+     "text": "idea",
+     "start": 7.024,
+     "end": 7.358
+    },
+    {
+     "text": "just",
+     "start": 7.358,
+     "end": 7.692
+    },
+    {
+     "text": "won",
+     "start": 7.692,
+     "end": 7.893
+    },
+    {
+     "text": "the",
+     "start": 7.893,
+     "end": 8.026
+    },
+    {
+     "text": "2026",
+     "start": 8.026,
+     "end": 9.095
+    },
+    {
+     "text": "Nobel",
+     "start": 9.095,
+     "end": 9.496
+    },
+    {
+     "text": "Prize",
+     "start": 9.496,
+     "end": 9.83
+    },
+    {
+     "text": "in",
+     "start": 9.83,
+     "end": 9.964
+    },
+    {
+     "text": "Medicine.",
+     "start": 9.964,
+     "end": 10.699
+    }
+   ],
+   "phonemes": "ðɪs aɪdˈiə dʒˈʌst wˈʌn ðə twˈɛnti twˈɛntisˈɪks noʊbˈɛl pɹˈaɪz ɪn mˈɛdəsən."
+  },
+  {
+   "id": "name",
+   "start": 11.099,
+   "end": 12.617,
+   "words": [
+    {
+     "text": "It's",
+     "start": 11.099,
+     "end": 11.281
+    },
+    {
+     "text": "called",
+     "start": 11.281,
+     "end": 11.524
+    },
+    {
+     "text": "optogenetics.",
+     "start": 11.524,
+     "end": 12.617
+    }
+   ],
+   "phonemes": "ɪts kˈɔːld ˌɑːptoʊdʒɪnˈɛɾɪks."
+  },
+  {
+   "id": "split",
+   "start": 12.767,
+   "end": 14.819,
+   "words": [
+    {
+     "text": "Opto,",
+     "start": 12.767,
+     "end": 13.211
+    },
+    {
+     "text": "light.",
+     "start": 13.211,
+     "end": 13.654
+    },
+    {
+     "text": "Genetics,",
+     "start": 13.654,
+     "end": 14.32
+    },
+    {
+     "text": "genes.",
+     "start": 14.32,
+     "end": 14.819
+    }
+   ],
+   "phonemes": "ˈɑːptoʊ, lˈaɪt. dʒɪnˈɛɾɪks, dʒˈiːnz."
+  },
+  {
+   "id": "neurons",
+   "start": 15.219,
+   "end": 20.318,
+   "words": [
+    {
+     "text": "Your",
+     "start": 15.219,
+     "end": 15.431
+    },
+    {
+     "text": "brain",
+     "start": 15.431,
+     "end": 15.785
+    },
+    {
+     "text": "has",
+     "start": 15.785,
+     "end": 15.998
+    },
+    {
+     "text": "about",
+     "start": 15.998,
+     "end": 16.352
+    },
+    {
+     "text": "86",
+     "start": 16.352,
+     "end": 16.919
+    },
+    {
+     "text": "billion",
+     "start": 16.919,
+     "end": 17.343
+    },
+    {
+     "text": "neurons,",
+     "start": 17.343,
+     "end": 18.052
+    },
+    {
+     "text": "talking",
+     "start": 18.052,
+     "end": 18.406
+    },
+    {
+     "text": "in",
+     "start": 18.406,
+     "end": 18.548
+    },
+    {
+     "text": "tiny",
+     "start": 18.548,
+     "end": 18.902
+    },
+    {
+     "text": "electrical",
+     "start": 18.902,
+     "end": 19.61
+    },
+    {
+     "text": "sparks.",
+     "start": 19.61,
+     "end": 20.318
+    }
+   ],
+   "phonemes": "jʊɹ bɹˈeɪn hɐz ɐbˌaʊt ˈeɪɾisˈɪks bˈɪliən nˈʊɹɹɑːnz, tˈɔːkɪŋ ɪn tˈaɪni ᵻlˈɛktɹɪkəl spˈɑːɹks."
+  },
+  {
+   "id": "watch",
+   "start": 20.668,
+   "end": 24.977,
+   "words": [
+    {
+     "text": "For",
+     "start": 20.668,
+     "end": 20.861
+    },
+    {
+     "text": "decades,",
+     "start": 20.861,
+     "end": 21.504
+    },
+    {
+     "text": "scientists",
+     "start": 21.504,
+     "end": 22.147
+    },
+    {
+     "text": "could",
+     "start": 22.147,
+     "end": 22.34
+    },
+    {
+     "text": "only",
+     "start": 22.34,
+     "end": 22.662
+    },
+    {
+     "text": "watch",
+     "start": 22.662,
+     "end": 22.919
+    },
+    {
+     "text": "those",
+     "start": 22.919,
+     "end": 23.176
+    },
+    {
+     "text": "sparks",
+     "start": 23.176,
+     "end": 23.562
+    },
+    {
+     "text": "light",
+     "start": 23.562,
+     "end": 23.82
+    },
+    {
+     "text": "up",
+     "start": 23.82,
+     "end": 23.948
+    },
+    {
+     "text": "on",
+     "start": 23.948,
+     "end": 24.077
+    },
+    {
+     "text": "brain",
+     "start": 24.077,
+     "end": 24.398
+    },
+    {
+     "text": "scans.",
+     "start": 24.398,
+     "end": 24.977
+    }
+   ],
+   "phonemes": "fɔːɹ dˈɛkeɪdz, sˈaɪəntɪsts kʊd ˈoʊnli wˈɑːtʃ ðoʊz spˈɑːɹks lˈaɪt ˌʌp ˌɔn bɹˈeɪn skˈænz."
+  },
+  {
+   "id": "proving",
+   "start": 25.177,
+   "end": 26.599,
+   "words": [
+    {
+     "text": "But",
+     "start": 25.177,
+     "end": 25.355
+    },
+    {
+     "text": "watching",
+     "start": 25.355,
+     "end": 25.71
+    },
+    {
+     "text": "isn't",
+     "start": 25.71,
+     "end": 26.006
+    },
+    {
+     "text": "proving.",
+     "start": 26.006,
+     "end": 26.599
+    }
+   ],
+   "phonemes": "bˌʌt wˈɑːtʃɪŋ ˌɪzənt pɹˈuːvɪŋ."
+  },
+  {
+   "id": "fire",
+   "start": 26.899,
+   "end": 30.659,
+   "words": [
+    {
+     "text": "Firefighters",
+     "start": 26.899,
+     "end": 27.558
+    },
+    {
+     "text": "show",
+     "start": 27.558,
+     "end": 27.756
+    },
+    {
+     "text": "up",
+     "start": 27.756,
+     "end": 27.888
+    },
+    {
+     "text": "at",
+     "start": 27.888,
+     "end": 28.02
+    },
+    {
+     "text": "every",
+     "start": 28.02,
+     "end": 28.284
+    },
+    {
+     "text": "fire.",
+     "start": 28.284,
+     "end": 28.812
+    },
+    {
+     "text": "That",
+     "start": 28.812,
+     "end": 29.01
+    },
+    {
+     "text": "doesn't",
+     "start": 29.01,
+     "end": 29.406
+    },
+    {
+     "text": "mean",
+     "start": 29.406,
+     "end": 29.604
+    },
+    {
+     "text": "they",
+     "start": 29.604,
+     "end": 29.801
+    },
+    {
+     "text": "started",
+     "start": 29.801,
+     "end": 30.263
+    },
+    {
+     "text": "it.",
+     "start": 30.263,
+     "end": 30.659
+    }
+   ],
+   "phonemes": "fˈaɪɚfaɪɾɚz ʃˈoʊ ˌʌp æɾ ˈɛvɹi fˈaɪɚ. ðæt dˈʌzənt mˈiːn ðeɪ stˈɑːɹɾᵻd ɪt."
+  },
+  {
+   "id": "unexpected",
+   "start": 31.109,
+   "end": 33.501,
+   "words": [
+    {
+     "text": "The",
+     "start": 31.109,
+     "end": 31.22
+    },
+    {
+     "text": "breakthrough",
+     "start": 31.22,
+     "end": 31.665
+    },
+    {
+     "text": "came",
+     "start": 31.665,
+     "end": 31.888
+    },
+    {
+     "text": "from",
+     "start": 31.888,
+     "end": 32.11
+    },
+    {
+     "text": "the",
+     "start": 32.11,
+     "end": 32.222
+    },
+    {
+     "text": "last",
+     "start": 32.222,
+     "end": 32.444
+    },
+    {
+     "text": "place",
+     "start": 32.444,
+     "end": 32.722
+    },
+    {
+     "text": "you'd",
+     "start": 32.722,
+     "end": 32.889
+    },
+    {
+     "text": "expect.",
+     "start": 32.889,
+     "end": 33.501
+    }
+   ],
+   "phonemes": "ðə bɹˈeɪkθɹuː kˈeɪm fɹʌmðə lˈæst plˈeɪs juːd ɛkspˈɛkt."
+  },
+  {
+   "id": "pond",
+   "start": 33.651,
+   "end": 34.43,
+   "words": [
+    {
+     "text": "Pond",
+     "start": 33.651,
+     "end": 33.911
+    },
+    {
+     "text": "scum.",
+     "start": 33.911,
+     "end": 34.43
+    }
+   ],
+   "phonemes": "pˈɑːnd skˈʌm."
+  },
+  {
+   "id": "alga",
+   "start": 34.83,
+   "end": 40.308,
+   "words": [
+    {
+     "text": "A",
+     "start": 34.83,
+     "end": 34.971
+    },
+    {
+     "text": "tiny",
+     "start": 34.971,
+     "end": 35.322
+    },
+    {
+     "text": "green",
+     "start": 35.322,
+     "end": 35.603
+    },
+    {
+     "text": "alga",
+     "start": 35.603,
+     "end": 35.884
+    },
+    {
+     "text": "called",
+     "start": 35.884,
+     "end": 36.165
+    },
+    {
+     "text": "Chlamydomonas",
+     "start": 36.165,
+     "end": 37.078
+    },
+    {
+     "text": "swims",
+     "start": 37.078,
+     "end": 37.429
+    },
+    {
+     "text": "toward",
+     "start": 37.429,
+     "end": 37.85
+    },
+    {
+     "text": "light,",
+     "start": 37.85,
+     "end": 38.342
+    },
+    {
+     "text": "using",
+     "start": 38.342,
+     "end": 38.693
+    },
+    {
+     "text": "a",
+     "start": 38.693,
+     "end": 38.834
+    },
+    {
+     "text": "light-sensing",
+     "start": 38.834,
+     "end": 39.536
+    },
+    {
+     "text": "protein.",
+     "start": 39.536,
+     "end": 40.308
+    }
+   ],
+   "phonemes": "ɐ tˈaɪni ɡɹˈiːn ˈælɡə kˈɔːld klˌæmɪdəmˈoʊnəz swˈɪmz təwˈɔːɹd lˈaɪt, jˈuːzɪŋ ɐ lˈaɪtsˈɛnsɪŋ pɹˈoʊtiːn."
+  },
+  {
+   "id": "found",
+   "start": 40.608,
+   "end": 45.794,
+   "words": [
+    {
+     "text": "In",
+     "start": 40.608,
+     "end": 40.747
+    },
+    {
+     "text": "the",
+     "start": 40.747,
+     "end": 40.885
+    },
+    {
+     "text": "early",
+     "start": 40.885,
+     "end": 41.092
+    },
+    {
+     "text": "2000s,",
+     "start": 41.092,
+     "end": 41.991
+    },
+    {
+     "text": "Peter",
+     "start": 41.991,
+     "end": 42.268
+    },
+    {
+     "text": "Hegemann",
+     "start": 42.268,
+     "end": 42.821
+    },
+    {
+     "text": "and",
+     "start": 42.821,
+     "end": 43.028
+    },
+    {
+     "text": "Georg",
+     "start": 43.028,
+     "end": 43.443
+    },
+    {
+     "text": "Nagel",
+     "start": 43.443,
+     "end": 43.789
+    },
+    {
+     "text": "found",
+     "start": 43.789,
+     "end": 44.135
+    },
+    {
+     "text": "it:",
+     "start": 44.135,
+     "end": 44.48
+    },
+    {
+     "text": "channelrhodopsin.",
+     "start": 44.48,
+     "end": 45.794
+    }
+   ],
+   "phonemes": "ɪnðɪ ˈɜːli tˈuː θˈaʊzəndz, pˈiːɾɚ hˈeɪɡəmˌɑːn ænd ɡeɪˈɔːɹɡ nˈɑːɡəl fˈaʊnd ɪt: tʃˌænəlɹoʊdˈɑːpsɪn."
+  },
+  {
+   "id": "gate",
+   "start": 46.094,
+   "end": 52.598,
+   "words": [
+    {
+     "text": "It's",
+     "start": 46.094,
+     "end": 46.302
+    },
+    {
+     "text": "a",
+     "start": 46.302,
+     "end": 46.44
+    },
+    {
+     "text": "gate",
+     "start": 46.44,
+     "end": 46.717
+    },
+    {
+     "text": "in",
+     "start": 46.717,
+     "end": 46.855
+    },
+    {
+     "text": "the",
+     "start": 46.855,
+     "end": 46.993
+    },
+    {
+     "text": "cell's",
+     "start": 46.993,
+     "end": 47.27
+    },
+    {
+     "text": "wall.",
+     "start": 47.27,
+     "end": 47.755
+    },
+    {
+     "text": "Blue",
+     "start": 47.755,
+     "end": 47.962
+    },
+    {
+     "text": "light",
+     "start": 47.962,
+     "end": 48.239
+    },
+    {
+     "text": "hits,",
+     "start": 48.239,
+     "end": 48.723
+    },
+    {
+     "text": "the",
+     "start": 48.723,
+     "end": 48.862
+    },
+    {
+     "text": "gate",
+     "start": 48.862,
+     "end": 49.138
+    },
+    {
+     "text": "opens,",
+     "start": 49.138,
+     "end": 49.761
+    },
+    {
+     "text": "charged",
+     "start": 49.761,
+     "end": 50.245
+    },
+    {
+     "text": "particles",
+     "start": 50.245,
+     "end": 50.868
+    },
+    {
+     "text": "rush",
+     "start": 50.868,
+     "end": 51.076
+    },
+    {
+     "text": "in,",
+     "start": 51.076,
+     "end": 51.422
+    },
+    {
+     "text": "and",
+     "start": 51.422,
+     "end": 51.629
+    },
+    {
+     "text": "the",
+     "start": 51.629,
+     "end": 51.768
+    },
+    {
+     "text": "cell",
+     "start": 51.768,
+     "end": 51.975
+    },
+    {
+     "text": "fires.",
+     "start": 51.975,
+     "end": 52.598
+    }
+   ],
+   "phonemes": "ɪts ɐ ɡˈeɪt ɪnðə sˈɛlz wˈɔːl. blˈuː lˈaɪt hˈɪts, ðə ɡˈeɪt ˈoʊpənz, tʃˈɑːɹdʒd pˈɑːɹɾɪkəlz ɹˈʌʃ ˈɪn, ænd ðə sˈɛl fˈaɪɚz."
+  },
+  {
+   "id": "stanford",
+   "start": 53.048,
+   "end": 58.748,
+   "words": [
+    {
+     "text": "Then,",
+     "start": 53.048,
+     "end": 53.51
+    },
+    {
+     "text": "in",
+     "start": 53.51,
+     "end": 53.664
+    },
+    {
+     "text": "2005,",
+     "start": 53.664,
+     "end": 54.897
+    },
+    {
+     "text": "Karl",
+     "start": 54.897,
+     "end": 55.205
+    },
+    {
+     "text": "Deisseroth's",
+     "start": 55.205,
+     "end": 55.898
+    },
+    {
+     "text": "lab",
+     "start": 55.898,
+     "end": 56.129
+    },
+    {
+     "text": "at",
+     "start": 56.129,
+     "end": 56.283
+    },
+    {
+     "text": "Stanford",
+     "start": 56.283,
+     "end": 56.822
+    },
+    {
+     "text": "put",
+     "start": 56.822,
+     "end": 57.053
+    },
+    {
+     "text": "that",
+     "start": 57.053,
+     "end": 57.285
+    },
+    {
+     "text": "gene",
+     "start": 57.285,
+     "end": 57.593
+    },
+    {
+     "text": "into",
+     "start": 57.593,
+     "end": 57.901
+    },
+    {
+     "text": "neurons.",
+     "start": 57.901,
+     "end": 58.748
+    }
+   ],
+   "phonemes": "ðˈɛn, ɪn tˈuː θˈaʊzənd fˈaɪv, kˈɑːɹl dˈaɪsɚɹˌɑːθs lˈæb æt stˈænfɚd pˌʊt ðæt dʒˈiːn ˌɪntʊ nˈʊɹɹɑːnz."
+  },
+  {
+   "id": "flash",
+   "start": 58.948,
+   "end": 62.543,
+   "words": [
+    {
+     "text": "One",
+     "start": 58.948,
+     "end": 59.144
+    },
+    {
+     "text": "flash",
+     "start": 59.144,
+     "end": 59.406
+    },
+    {
+     "text": "of",
+     "start": 59.406,
+     "end": 59.536
+    },
+    {
+     "text": "blue",
+     "start": 59.536,
+     "end": 59.732
+    },
+    {
+     "text": "light,",
+     "start": 59.732,
+     "end": 60.19
+    },
+    {
+     "text": "and",
+     "start": 60.19,
+     "end": 60.386
+    },
+    {
+     "text": "the",
+     "start": 60.386,
+     "end": 60.517
+    },
+    {
+     "text": "neuron",
+     "start": 60.517,
+     "end": 60.909
+    },
+    {
+     "text": "fired,",
+     "start": 60.909,
+     "end": 61.432
+    },
+    {
+     "text": "in",
+     "start": 61.432,
+     "end": 61.562
+    },
+    {
+     "text": "milliseconds.",
+     "start": 61.562,
+     "end": 62.543
+    }
+   ],
+   "phonemes": "wˈʌn flˈæʃ ʌv blˈuː lˈaɪt, ænd ðə nˈʊɹɹɑːn fˈaɪɚd, ɪn mˈɪlɪsˌɛkəndz."
+  },
+  {
+   "id": "remote",
+   "start": 62.693,
+   "end": 64.307,
+   "words": [
+    {
+     "text": "A",
+     "start": 62.693,
+     "end": 62.8
+    },
+    {
+     "text": "remote",
+     "start": 62.8,
+     "end": 63.123
+    },
+    {
+     "text": "control",
+     "start": 63.123,
+     "end": 63.554
+    },
+    {
+     "text": "for",
+     "start": 63.554,
+     "end": 63.715
+    },
+    {
+     "text": "the",
+     "start": 63.715,
+     "end": 63.823
+    },
+    {
+     "text": "brain.",
+     "start": 63.823,
+     "end": 64.307
+    }
+   ],
+   "phonemes": "ɐ ɹᵻmˈoʊt kəntɹˈoʊl fɚðə bɹˈeɪn."
+  },
+  {
+   "id": "mice",
+   "start": 64.757,
+   "end": 69.297,
+   "words": [
+    {
+     "text": "In",
+     "start": 64.757,
+     "end": 64.895
+    },
+    {
+     "text": "mice,",
+     "start": 64.895,
+     "end": 65.376
+    },
+    {
+     "text": "flipping",
+     "start": 65.376,
+     "end": 65.789
+    },
+    {
+     "text": "one",
+     "start": 65.789,
+     "end": 65.995
+    },
+    {
+     "text": "circuit",
+     "start": 65.995,
+     "end": 66.339
+    },
+    {
+     "text": "could",
+     "start": 66.339,
+     "end": 66.545
+    },
+    {
+     "text": "trigger",
+     "start": 66.545,
+     "end": 66.889
+    },
+    {
+     "text": "fear.",
+     "start": 66.889,
+     "end": 67.371
+    },
+    {
+     "text": "Another",
+     "start": 67.371,
+     "end": 67.715
+    },
+    {
+     "text": "could",
+     "start": 67.715,
+     "end": 67.921
+    },
+    {
+     "text": "change",
+     "start": 67.921,
+     "end": 68.403
+    },
+    {
+     "text": "how",
+     "start": 68.403,
+     "end": 68.609
+    },
+    {
+     "text": "they",
+     "start": 68.609,
+     "end": 68.815
+    },
+    {
+     "text": "move.",
+     "start": 68.815,
+     "end": 69.297
+    }
+   ],
+   "phonemes": "ɪn mˈaɪs, flˈɪpɪŋ wˈʌn sˈɜːkɪt kʊd tɹˈɪɡɚ fˈɪɹ. ɐnˈʌðɚ kʊd tʃˈeɪndʒ hˌaʊ ðeɪ mˈuːv."
+  },
+  {
+   "id": "cause",
+   "start": 69.497,
+   "end": 73.312,
+   "words": [
+    {
+     "text": "For",
+     "start": 69.497,
+     "end": 69.684
+    },
+    {
+     "text": "the",
+     "start": 69.684,
+     "end": 69.809
+    },
+    {
+     "text": "first",
+     "start": 69.809,
+     "end": 70.06
+    },
+    {
+     "text": "time,",
+     "start": 70.06,
+     "end": 70.497
+    },
+    {
+     "text": "scientists",
+     "start": 70.497,
+     "end": 71.123
+    },
+    {
+     "text": "could",
+     "start": 71.123,
+     "end": 71.311
+    },
+    {
+     "text": "prove",
+     "start": 71.311,
+     "end": 71.561
+    },
+    {
+     "text": "cause,",
+     "start": 71.561,
+     "end": 71.936
+    },
+    {
+     "text": "not",
+     "start": 71.936,
+     "end": 72.124
+    },
+    {
+     "text": "just",
+     "start": 72.124,
+     "end": 72.436
+    },
+    {
+     "text": "correlation.",
+     "start": 72.436,
+     "end": 73.312
+    }
+   ],
+   "phonemes": "fɚðə fˈɜːst tˈaɪm, sˈaɪəntɪsts kʊd pɹˈuːv kˈɔːz, nˌɑːt dʒˈʌst kˌɔɹɪlˈeɪʃən."
+  },
+  {
+   "id": "patients",
+   "start": 73.762,
+   "end": 75.045,
+   "words": [
+    {
+     "text": "And",
+     "start": 73.762,
+     "end": 73.922
+    },
+    {
+     "text": "it's",
+     "start": 73.922,
+     "end": 74.083
+    },
+    {
+     "text": "reaching",
+     "start": 74.083,
+     "end": 74.403
+    },
+    {
+     "text": "patients.",
+     "start": 74.403,
+     "end": 75.045
+    }
+   ],
+   "phonemes": "ænd ɪts ɹˈiːtʃɪŋ pˈeɪʃənts."
+  },
+  {
+   "id": "sahel",
+   "start": 75.195,
+   "end": 79.893,
+   "words": [
+    {
+     "text": "In",
+     "start": 75.195,
+     "end": 75.325
+    },
+    {
+     "text": "2021,",
+     "start": 75.325,
+     "end": 76.5
+    },
+    {
+     "text": "a",
+     "start": 76.5,
+     "end": 76.63
+    },
+    {
+     "text": "blind",
+     "start": 76.63,
+     "end": 77.022
+    },
+    {
+     "text": "man",
+     "start": 77.022,
+     "end": 77.218
+    },
+    {
+     "text": "partly",
+     "start": 77.218,
+     "end": 77.609
+    },
+    {
+     "text": "regained",
+     "start": 77.609,
+     "end": 78.066
+    },
+    {
+     "text": "his",
+     "start": 78.066,
+     "end": 78.262
+    },
+    {
+     "text": "sight",
+     "start": 78.262,
+     "end": 78.523
+    },
+    {
+     "text": "with",
+     "start": 78.523,
+     "end": 78.719
+    },
+    {
+     "text": "optogenetics.",
+     "start": 78.719,
+     "end": 79.893
+    }
+   ],
+   "phonemes": "ɪn twˈɛnti twˈɛntiwˌʌn, ɐ blˈaɪnd mˈæn pˈɑːɹtli ɹᵻɡˈeɪnd hɪz sˈaɪt wɪð ˌɑːptoʊdʒɪnˈɛɾɪks."
+  },
+  {
+   "id": "fda",
+   "start": 80.143,
+   "end": 88.543,
+   "words": [
+    {
+     "text": "And",
+     "start": 80.143,
+     "end": 80.359
+    },
+    {
+     "text": "in",
+     "start": 80.359,
+     "end": 80.502
+    },
+    {
+     "text": "September",
+     "start": 80.502,
+     "end": 81.077
+    },
+    {
+     "text": "2026,",
+     "start": 81.077,
+     "end": 82.441
+    },
+    {
+     "text": "the",
+     "start": 82.441,
+     "end": 82.584
+    },
+    {
+     "text": "FDA",
+     "start": 82.584,
+     "end": 83.015
+    },
+    {
+     "text": "accepted",
+     "start": 83.015,
+     "end": 83.589
+    },
+    {
+     "text": "an",
+     "start": 83.589,
+     "end": 83.733
+    },
+    {
+     "text": "application",
+     "start": 83.733,
+     "end": 84.451
+    },
+    {
+     "text": "for",
+     "start": 84.451,
+     "end": 84.666
+    },
+    {
+     "text": "an",
+     "start": 84.666,
+     "end": 84.81
+    },
+    {
+     "text": "optogenetic",
+     "start": 84.81,
+     "end": 85.743
+    },
+    {
+     "text": "eye",
+     "start": 85.743,
+     "end": 85.887
+    },
+    {
+     "text": "injection",
+     "start": 85.887,
+     "end": 86.533
+    },
+    {
+     "text": "for",
+     "start": 86.533,
+     "end": 86.748
+    },
+    {
+     "text": "retinitis",
+     "start": 86.748,
+     "end": 87.466
+    },
+    {
+     "text": "pigmentosa.",
+     "start": 87.466,
+     "end": 88.543
+    }
+   ],
+   "phonemes": "ænd ɪn sɛptˈɛmbɚ twˈɛnti twˈɛntisˈɪks, ðɪ ˌɛfdˌiːˈeɪ ɐksˈɛptᵻd ɐn ˌæplɪkˈeɪʃən fɚɹən ˌɑːptoʊdʒɪnˈɛɾɪk ˈaɪ ɪndʒˈɛkʃən fɔːɹ ɹˌɛtɪnˈaɪɾɪs pˌɪɡməntˈoʊsə."
+  },
+  {
+   "id": "notyet",
+   "start": 88.993,
+   "end": 91.352,
+   "words": [
+    {
+     "text": "It's",
+     "start": 88.993,
+     "end": 89.174
+    },
+    {
+     "text": "not",
+     "start": 89.174,
+     "end": 89.356
+    },
+    {
+     "text": "treating",
+     "start": 89.356,
+     "end": 89.719
+    },
+    {
+     "text": "brain",
+     "start": 89.719,
+     "end": 90.021
+    },
+    {
+     "text": "disorders",
+     "start": 90.021,
+     "end": 90.505
+    },
+    {
+     "text": "in",
+     "start": 90.505,
+     "end": 90.626
+    },
+    {
+     "text": "people",
+     "start": 90.626,
+     "end": 90.929
+    },
+    {
+     "text": "yet.",
+     "start": 90.929,
+     "end": 91.352
+    }
+   ],
+   "phonemes": "ɪts nˌɑːt tɹˈiːɾɪŋ bɹˈeɪn dɪsˈɔːɹdɚz ɪn pˈiːpəl jˈɛt."
+  },
+  {
+   "id": "map",
+   "start": 91.502,
+   "end": 98.604,
+   "words": [
+    {
+     "text": "But",
+     "start": 91.502,
+     "end": 91.703
+    },
+    {
+     "text": "it's",
+     "start": 91.703,
+     "end": 91.904
+    },
+    {
+     "text": "mapping",
+     "start": 91.904,
+     "end": 92.239
+    },
+    {
+     "text": "the",
+     "start": 92.239,
+     "end": 92.373
+    },
+    {
+     "text": "faulty",
+     "start": 92.373,
+     "end": 92.708
+    },
+    {
+     "text": "circuits",
+     "start": 92.708,
+     "end": 93.11
+    },
+    {
+     "text": "behind",
+     "start": 93.11,
+     "end": 93.579
+    },
+    {
+     "text": "Parkinson's,",
+     "start": 93.579,
+     "end": 94.45
+    },
+    {
+     "text": "depression",
+     "start": 94.45,
+     "end": 94.986
+    },
+    {
+     "text": "and",
+     "start": 94.986,
+     "end": 95.187
+    },
+    {
+     "text": "addiction,",
+     "start": 95.187,
+     "end": 95.857
+    },
+    {
+     "text": "so",
+     "start": 95.857,
+     "end": 96.058
+    },
+    {
+     "text": "tomorrow's",
+     "start": 96.058,
+     "end": 96.594
+    },
+    {
+     "text": "medicines",
+     "start": 96.594,
+     "end": 97.13
+    },
+    {
+     "text": "can",
+     "start": 97.13,
+     "end": 97.331
+    },
+    {
+     "text": "hit",
+     "start": 97.331,
+     "end": 97.532
+    },
+    {
+     "text": "the",
+     "start": 97.532,
+     "end": 97.666
+    },
+    {
+     "text": "right",
+     "start": 97.666,
+     "end": 97.934
+    },
+    {
+     "text": "target.",
+     "start": 97.934,
+     "end": 98.604
+    }
+   ],
+   "phonemes": "bˌʌt ɪts mˈæpɪŋ ðə fˈɔlti sˈɜːkɪts bᵻhˌaɪnd pˈɑːɹkɪnsənz, dᵻpɹˈɛʃən ænd ɐdˈɪkʃən, sˌoʊ təmˈɑːɹoʊz mˈɛdəsənz kæn hˈɪt ðə ɹˈaɪt tˈɑːɹɡɪt."
+  },
+  {
+   "id": "recap",
+   "start": 99.104,
+   "end": 103.113,
+   "words": [
+    {
+     "text": "Three",
+     "start": 99.104,
+     "end": 99.301
+    },
+    {
+     "text": "scientists.",
+     "start": 99.301,
+     "end": 100.221
+    },
+    {
+     "text": "One",
+     "start": 100.221,
+     "end": 100.418
+    },
+    {
+     "text": "tiny",
+     "start": 100.418,
+     "end": 100.747
+    },
+    {
+     "text": "alga.",
+     "start": 100.747,
+     "end": 101.273
+    },
+    {
+     "text": "And",
+     "start": 101.273,
+     "end": 101.47
+    },
+    {
+     "text": "a",
+     "start": 101.47,
+     "end": 101.602
+    },
+    {
+     "text": "light",
+     "start": 101.602,
+     "end": 101.864
+    },
+    {
+     "text": "switch",
+     "start": 101.864,
+     "end": 102.193
+    },
+    {
+     "text": "for",
+     "start": 102.193,
+     "end": 102.39
+    },
+    {
+     "text": "the",
+     "start": 102.39,
+     "end": 102.522
+    },
+    {
+     "text": "brain.",
+     "start": 102.522,
+     "end": 103.113
+    }
+   ],
+   "phonemes": "θɹˈiː sˈaɪəntɪsts. wˈʌn tˈaɪni ˈælɡə. ænd ɐ lˈaɪt swˈɪtʃ fɚðə bɹˈeɪn."
+  },
+  {
+   "id": "cta",
+   "start": 103.463,
+   "end": 106.554,
+   "words": [
+    {
+     "text": "Follow",
+     "start": 103.463,
+     "end": 103.785
+    },
+    {
+     "text": "Dr",
+     "start": 103.785,
+     "end": 104.107
+    },
+    {
+     "text": "Pharmacist",
+     "start": 104.107,
+     "end": 104.687
+    },
+    {
+     "text": "for",
+     "start": 104.687,
+     "end": 104.88
+    },
+    {
+     "text": "more",
+     "start": 104.88,
+     "end": 105.073
+    },
+    {
+     "text": "science,",
+     "start": 105.073,
+     "end": 105.652
+    },
+    {
+     "text": "made",
+     "start": 105.652,
+     "end": 105.91
+    },
+    {
+     "text": "simple.",
+     "start": 105.91,
+     "end": 106.554
+    }
+   ],
+   "phonemes": "fˈɑːloʊ dˈɑːktɚ fˈɑːɹmɐsˌɪst, fɔːɹ mˈɔːɹ sˈaɪəns, mˌeɪd sˈɪmpəl."
+  }
+ ]
+}

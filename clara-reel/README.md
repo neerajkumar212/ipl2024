@@ -1,5 +1,38 @@
 # Dr Pharmacist · Clara reel — Nobel Prize 2026: Optogenetics
 
+## V2 (current): `ClaraOptogeneticsV2`
+
+A rebuilt reel (≈109 s, 1080×1920): new script, a fresh Clara voiceover (Kokoro **af_heart**), an
+original music bed, 14 scenes and a custom transitions engine.
+
+```console
+npx remotion render ClaraOptogeneticsV2 out/v2.mp4 --crf=16
+```
+
+| Path | What it is |
+| --- | --- |
+| `src/data/v2script.json` | Script: caption text, what Clara says (`say`), pauses, and IPA overrides for names |
+| `scripts/v2_voice.py` | Synthesizes `public/audio/clara_v2.wav` and per-word timings in `src/data/v2timing.json` |
+| `scripts/v2_music.py` | Composes `public/audio/music_v2.wav` (pads, plucks, soft drums, reverb), ducked under Clara |
+| `scripts/v2_sfx.py` | Extra cinematic SFX (boom, reverse swell, heartbeat) |
+| `scripts/brand_assets.py` | Cuts the Dr Pharmacist logo into transparent / on-dark / D and P layers |
+| `src/v2/Stage.tsx` | Transitions: whip-pans with directional motion blur, zoom-through, iris, light-wipe, glitch, flash |
+| `src/v2/scenesA.tsx`, `scenesB.tsx` | The 14 scenes; every animation is keyed to the word Clara is saying |
+| `src/v2/ReelV2.tsx` | Edit list, cut types, ~150 SFX cues, Clara host, logo bug, captions |
+
+Pronunciation: Deisseroth = DICE-er-roth, Hegemann = HAY-geh-mahn, Georg Nagel = GAY-org NAH-gel,
+channelrhodopsin = channel-ro-DOP-sin. Years are spoken naturally ("two thousand five").
+
+Credits on screen: laureate illustrations "Ill. Niklas Elmehed © Nobel Prize Outreach"; sources
+Nagel et al. Science 2002 / PNAS 2003, Boyden et al. Nat Neurosci 2005, Liu et al. Nature 2012,
+Kravitz et al. Nature 2010, Sahel et al. Nat Med 2021, Azevedo et al. J Comp Neurol 2009.
+
+To regenerate the voice you need the Kokoro v1.0 ONNX model and the af_heart style vector:
+`python3 scripts/v2_voice.py kokoro.onnx voices.npz`, then `python3 scripts/v2_music.py` and
+`python3 scripts/build_envelope.py public/audio/clara_v2.wav src/data/envelope_v2.json`.
+
+## V1: `ClaraOptogenetics`
+
 A 114-second, 1080×1920 Instagram reel built with Remotion. Clara, Dr Pharmacist's health
 companion, explains the 2026 Nobel Prize in Physiology or Medicine (Hegemann, Nagel, Deisseroth,
 for light-gated ion channels and optogenetics).

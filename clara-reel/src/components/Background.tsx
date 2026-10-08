@@ -23,7 +23,7 @@ const mix = (a: string, b: string, k: number) => {
   return pa.map((v, i) => Math.round(v + (pb[i] - v) * k)).join(",");
 };
 
-const moodAt = (s: number) => {
+const moodAt = (s: number, MOODS: [number, string][]) => {
   let i = 0;
   while (i < MOODS.length - 1 && MOODS[i + 1][0] <= s) i++;
   const next = MOODS[i + 1];
@@ -40,10 +40,10 @@ const DUST = new Array(70).fill(0).map((_, i) => ({
   tw: random(`dt${i}`) * Math.PI * 2,
 }));
 
-export const Background: React.FC = () => {
+export const Background: React.FC<{ moods?: [number, string][] }> = ({ moods = MOODS }) => {
   const frame = useCurrentFrame();
   const s = frame / 30;
-  const mood = moodAt(s);
+  const mood = moodAt(s, moods);
   const driftX = Math.sin(s * 0.21) * 120;
   const driftY = Math.cos(s * 0.17) * 160;
 

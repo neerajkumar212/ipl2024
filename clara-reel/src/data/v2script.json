@@ -1,0 +1,156 @@
+{
+  "voice": "af_heart",
+  "speed": 1.04,
+  "lead_in": 0.35,
+  "ipa": {
+    "Deisseroth's": "dˈaɪsɚɹˌɑːθs",
+    "Deisseroth": "dˈaɪsɚɹˌɑːθ",
+    "Hegemann": "hˈeɪɡəmˌɑːn",
+    "Georg": "ɡeɪˈɔːɹɡ",
+    "Nagel": "nˈɑːɡəl",
+    "channelrhodopsin": "tʃˌænəlɹoʊdˈɑːpsɪn",
+    "Clara": "klˈɑːɹə",
+    "FDA": "ˌɛfdˌiːˈeɪ"
+  },
+  "segments": [
+    {
+      "id": "hook",
+      "text": "What if you could switch on a single brain cell… with a flash of light?",
+      "say": "What if you could switch on a single brain cell... with a flash of light?",
+      "pause": 0.35
+    },
+    {
+      "id": "intro",
+      "text": "Hi, I'm Clara from Dr Pharmacist.",
+      "say": "Hi, I'm Clara, from Doctor Pharmacist.",
+      "pause": 0.2
+    },
+    {
+      "id": "nobel",
+      "text": "This idea just won the 2026 Nobel Prize in Medicine.",
+      "say": "This idea just won the twenty twenty-six Nobel Prize in Medicine.",
+      "pause": 0.4
+    },
+    {
+      "id": "name",
+      "text": "It's called optogenetics.",
+      "pause": 0.15
+    },
+    {
+      "id": "split",
+      "text": "Opto, light. Genetics, genes.",
+      "pause": 0.4
+    },
+    {
+      "id": "neurons",
+      "text": "Your brain has about 86 billion neurons, talking in tiny electrical sparks.",
+      "say": "Your brain has about eighty-six billion neurons, talking in tiny electrical sparks.",
+      "pause": 0.35
+    },
+    {
+      "id": "watch",
+      "text": "For decades, scientists could only watch those sparks light up on brain scans.",
+      "pause": 0.2
+    },
+    {
+      "id": "proving",
+      "text": "But watching isn't proving.",
+      "pause": 0.3
+    },
+    {
+      "id": "fire",
+      "text": "Firefighters show up at every fire. That doesn't mean they started it.",
+      "pause": 0.45
+    },
+    {
+      "id": "unexpected",
+      "text": "The breakthrough came from the last place you'd expect.",
+      "pause": 0.15
+    },
+    {
+      "id": "pond",
+      "text": "Pond scum.",
+      "pause": 0.4
+    },
+    {
+      "id": "alga",
+      "text": "A tiny green alga called Chlamydomonas swims toward light, using a light-sensing protein.",
+      "pause": 0.3
+    },
+    {
+      "id": "found",
+      "text": "In the early 2000s, Peter Hegemann and Georg Nagel found it: channelrhodopsin.",
+      "say": "In the early two thousands, Peter Hegemann and Georg Nagel found it: channelrhodopsin.",
+      "pause": 0.3
+    },
+    {
+      "id": "gate",
+      "text": "It's a gate in the cell's wall. Blue light hits, the gate opens, charged particles rush in, and the cell fires.",
+      "pause": 0.45
+    },
+    {
+      "id": "stanford",
+      "text": "Then, in 2005, Karl Deisseroth's lab at Stanford put that gene into neurons.",
+      "say": "Then, in two thousand five, Karl Deisseroth's lab at Stanford put that gene into neurons.",
+      "pause": 0.2
+    },
+    {
+      "id": "flash",
+      "text": "One flash of blue light, and the neuron fired, in milliseconds.",
+      "pause": 0.15
+    },
+    {
+      "id": "remote",
+      "text": "A remote control for the brain.",
+      "pause": 0.45
+    },
+    {
+      "id": "mice",
+      "text": "In mice, flipping one circuit could trigger fear. Another could change how they move.",
+      "pause": 0.2
+    },
+    {
+      "id": "cause",
+      "text": "For the first time, scientists could prove cause, not just correlation.",
+      "pause": 0.45
+    },
+    {
+      "id": "patients",
+      "text": "And it's reaching patients.",
+      "pause": 0.15
+    },
+    {
+      "id": "sahel",
+      "text": "In 2021, a blind man partly regained his sight with optogenetics.",
+      "say": "In twenty twenty-one, a blind man partly regained his sight with optogenetics.",
+      "pause": 0.25
+    },
+    {
+      "id": "fda",
+      "text": "And in September 2026, the FDA accepted an application for an optogenetic eye injection for retinitis pigmentosa.",
+      "say": "And in September twenty twenty-six, the FDA accepted an application for an optogenetic eye injection for retinitis pigmentosa.",
+      "pause": 0.45
+    },
+    {
+      "id": "notyet",
+      "text": "It's not treating brain disorders in people yet.",
+      "pause": 0.15
+    },
+    {
+      "id": "map",
+      "text": "But it's mapping the faulty circuits behind Parkinson's, depression and addiction, so tomorrow's medicines can hit the right target.",
+      "pause": 0.5
+    },
+    {
+      "id": "recap",
+      "text": "Three scientists. One tiny alga. And a light switch for the brain.",
+      "pause": 0.35
+    },
+    {
+      "id": "cta",
+      "text": "Follow Dr Pharmacist for more science, made simple.",
+      "say": "Follow Doctor Pharmacist, for more science, made simple.",
+      "pause": 1.2
+    }
+  ]
+}
