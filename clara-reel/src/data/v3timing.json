@@ -1,0 +1,1364 @@
+{
+ "total": 98.988,
+ "segments": [
+  {
+   "id": "hook",
+   "start": 0.35,
+   "end": 5.454,
+   "words": [
+    {
+     "text": "A",
+     "start": 0.35,
+     "end": 0.49
+    },
+    {
+     "text": "brand-new",
+     "start": 0.49,
+     "end": 0.979
+    },
+    {
+     "text": "Parkinson's",
+     "start": 0.979,
+     "end": 1.678
+    },
+    {
+     "text": "pill",
+     "start": 1.678,
+     "end": 1.888
+    },
+    {
+     "text": "just",
+     "start": 1.888,
+     "end": 2.238
+    },
+    {
+     "text": "got",
+     "start": 2.238,
+     "end": 2.448
+    },
+    {
+     "text": "FDA",
+     "start": 2.448,
+     "end": 2.867
+    },
+    {
+     "text": "approval…",
+     "start": 2.867,
+     "end": 3.636
+    },
+    {
+     "text": "and",
+     "start": 3.636,
+     "end": 3.846
+    },
+    {
+     "text": "it's",
+     "start": 3.846,
+     "end": 4.056
+    },
+    {
+     "text": "the",
+     "start": 4.056,
+     "end": 4.195
+    },
+    {
+     "text": "first",
+     "start": 4.195,
+     "end": 4.475
+    },
+    {
+     "text": "of",
+     "start": 4.475,
+     "end": 4.615
+    },
+    {
+     "text": "its",
+     "start": 4.615,
+     "end": 4.825
+    },
+    {
+     "text": "kind.",
+     "start": 4.825,
+     "end": 5.454
+    }
+   ],
+   "phonemes": "ɐ bɹˈænd nˈuː pˈɑːɹkɪnsənz pˈɪl dʒˈʌst ɡɑːt ˌɛfdˌiːˈeɪ ɐpɹˈuːvəl... ænd ɪts ðə fˈɜːst ʌv ɪts kˈaɪnd."
+  },
+  {
+   "id": "intro",
+   "start": 5.804,
+   "end": 8.243,
+   "words": [
+    {
+     "text": "Hi,",
+     "start": 5.804,
+     "end": 6.21
+    },
+    {
+     "text": "I'm",
+     "start": 6.21,
+     "end": 6.414
+    },
+    {
+     "text": "Clara",
+     "start": 6.414,
+     "end": 6.752
+    },
+    {
+     "text": "from",
+     "start": 6.752,
+     "end": 7.023
+    },
+    {
+     "text": "Dr",
+     "start": 7.023,
+     "end": 7.362
+    },
+    {
+     "text": "Pharmacist.",
+     "start": 7.362,
+     "end": 8.243
+    }
+   ],
+   "phonemes": "hˈaɪ, aɪm klˈɑːɹə, fɹʌm dˈɑːktɚ fˈɑːɹmɐsˌɪst."
+  },
+  {
+   "id": "name",
+   "start": 8.443,
+   "end": 10.864,
+   "words": [
+    {
+     "text": "It's",
+     "start": 8.443,
+     "end": 8.629
+    },
+    {
+     "text": "called",
+     "start": 8.629,
+     "end": 8.878
+    },
+    {
+     "text": "tavapadon,",
+     "start": 8.878,
+     "end": 9.623
+    },
+    {
+     "text": "brand",
+     "start": 9.623,
+     "end": 9.933
+    },
+    {
+     "text": "name",
+     "start": 9.933,
+     "end": 10.181
+    },
+    {
+     "text": "Juvmo.",
+     "start": 10.181,
+     "end": 10.864
+    }
+   ],
+   "phonemes": "ɪts kˈɔːld tˌævəpˈædɑːn, bɹˈænd nˈeɪm dʒˈʌvmoʊ."
+  },
+  {
+   "id": "approved",
+   "start": 11.064,
+   "end": 15.572,
+   "words": [
+    {
+     "text": "Approved",
+     "start": 11.064,
+     "end": 11.474
+    },
+    {
+     "text": "in",
+     "start": 11.474,
+     "end": 11.611
+    },
+    {
+     "text": "September",
+     "start": 11.611,
+     "end": 12.157
+    },
+    {
+     "text": "2026,",
+     "start": 12.157,
+     "end": 13.455
+    },
+    {
+     "text": "for",
+     "start": 13.455,
+     "end": 13.66
+    },
+    {
+     "text": "adults",
+     "start": 13.66,
+     "end": 14.07
+    },
+    {
+     "text": "with",
+     "start": 14.07,
+     "end": 14.275
+    },
+    {
+     "text": "Parkinson's",
+     "start": 14.275,
+     "end": 14.958
+    },
+    {
+     "text": "disease.",
+     "start": 14.958,
+     "end": 15.572
+    }
+   ],
+   "phonemes": "ɐpɹˈuːvd ɪn sɛptˈɛmbɚ twˈɛnti twˈɛntisˈɪks, fɔːɹ ɐdˈʌlts wɪð pˈɑːɹkɪnsənz dɪzˈiːz."
+  },
+  {
+   "id": "cells",
+   "start": 16.022,
+   "end": 19.863,
+   "words": [
+    {
+     "text": "In",
+     "start": 16.022,
+     "end": 16.167
+    },
+    {
+     "text": "Parkinson's,",
+     "start": 16.167,
+     "end": 17.109
+    },
+    {
+     "text": "the",
+     "start": 17.109,
+     "end": 17.254
+    },
+    {
+     "text": "brain",
+     "start": 17.254,
+     "end": 17.617
+    },
+    {
+     "text": "cells",
+     "start": 17.617,
+     "end": 17.906
+    },
+    {
+     "text": "that",
+     "start": 17.906,
+     "end": 18.124
+    },
+    {
+     "text": "make",
+     "start": 18.124,
+     "end": 18.414
+    },
+    {
+     "text": "dopamine",
+     "start": 18.414,
+     "end": 18.921
+    },
+    {
+     "text": "slowly",
+     "start": 18.921,
+     "end": 19.356
+    },
+    {
+     "text": "die.",
+     "start": 19.356,
+     "end": 19.863
+    }
+   ],
+   "phonemes": "ɪn pˈɑːɹkɪnsənz, ðə bɹˈeɪn sˈɛlz ðæt mˌeɪk dˈɑːpɐmˌiːn slˈoʊli dˈaɪ."
+  },
+  {
+   "id": "symptoms",
+   "start": 20.063,
+   "end": 23.028,
+   "words": [
+    {
+     "text": "Less",
+     "start": 20.063,
+     "end": 20.252
+    },
+    {
+     "text": "dopamine",
+     "start": 20.252,
+     "end": 20.694
+    },
+    {
+     "text": "means",
+     "start": 20.694,
+     "end": 20.946
+    },
+    {
+     "text": "slow",
+     "start": 20.946,
+     "end": 21.198
+    },
+    {
+     "text": "movement,",
+     "start": 21.198,
+     "end": 21.829
+    },
+    {
+     "text": "stiffness",
+     "start": 21.829,
+     "end": 22.271
+    },
+    {
+     "text": "and",
+     "start": 22.271,
+     "end": 22.46
+    },
+    {
+     "text": "tremor.",
+     "start": 22.46,
+     "end": 23.028
+    }
+   ],
+   "phonemes": "lˈɛs dˈɑːpɐmˌiːn mˈiːnz slˈoʊ mˈuːvmənt, stˈɪfnəs ænd tɹˈɛmɚ."
+  },
+  {
+   "id": "switches",
+   "start": 23.478,
+   "end": 27.05,
+   "words": [
+    {
+     "text": "Dopamine",
+     "start": 23.478,
+     "end": 23.941
+    },
+    {
+     "text": "works",
+     "start": 23.941,
+     "end": 24.206
+    },
+    {
+     "text": "by",
+     "start": 24.206,
+     "end": 24.404
+    },
+    {
+     "text": "pressing",
+     "start": 24.404,
+     "end": 24.801
+    },
+    {
+     "text": "receptors.",
+     "start": 24.801,
+     "end": 25.595
+    },
+    {
+     "text": "Think",
+     "start": 25.595,
+     "end": 25.86
+    },
+    {
+     "text": "of",
+     "start": 25.86,
+     "end": 25.992
+    },
+    {
+     "text": "them",
+     "start": 25.992,
+     "end": 26.19
+    },
+    {
+     "text": "as",
+     "start": 26.19,
+     "end": 26.323
+    },
+    {
+     "text": "switches.",
+     "start": 26.323,
+     "end": 27.05
+    }
+   ],
+   "phonemes": "dˈɑːpɐmˌiːn wˈɜːks baɪ pɹˈɛsɪŋ ɹᵻsˈɛptɚz. θˈɪŋk ʌv ðˌɛm æz swˈɪtʃᵻz."
+  },
+  {
+   "id": "old",
+   "start": 27.35,
+   "end": 32.585,
+   "words": [
+    {
+     "text": "Older",
+     "start": 27.35,
+     "end": 27.724
+    },
+    {
+     "text": "agonists",
+     "start": 27.724,
+     "end": 28.322
+    },
+    {
+     "text": "like",
+     "start": 28.322,
+     "end": 28.622
+    },
+    {
+     "text": "pramipexole",
+     "start": 28.622,
+     "end": 29.519
+    },
+    {
+     "text": "and",
+     "start": 29.519,
+     "end": 29.743
+    },
+    {
+     "text": "ropinirole",
+     "start": 29.743,
+     "end": 30.566
+    },
+    {
+     "text": "mostly",
+     "start": 30.566,
+     "end": 31.089
+    },
+    {
+     "text": "press",
+     "start": 31.089,
+     "end": 31.388
+    },
+    {
+     "text": "D2",
+     "start": 31.388,
+     "end": 31.687
+    },
+    {
+     "text": "and",
+     "start": 31.687,
+     "end": 31.912
+    },
+    {
+     "text": "D3.",
+     "start": 31.912,
+     "end": 32.584
+    }
+   ],
+   "phonemes": "ˈoʊldɚɹ ˈæɡənˌɪsts, lˈaɪk pɹˌæmɪpˈɛksoʊl ænd ɹoʊpˈɪnɪɹˌoʊl, mˈoʊstli pɹˈɛs dˈiː tˈuː ænd dˈiː θɹˈiː."
+  },
+  {
+   "id": "new",
+   "start": 32.885,
+   "end": 36.608,
+   "words": [
+    {
+     "text": "Tavapadon",
+     "start": 32.885,
+     "end": 33.555
+    },
+    {
+     "text": "presses",
+     "start": 33.555,
+     "end": 34.002
+    },
+    {
+     "text": "different",
+     "start": 34.002,
+     "end": 34.523
+    },
+    {
+     "text": "switches:",
+     "start": 34.523,
+     "end": 35.268
+    },
+    {
+     "text": "D1",
+     "start": 35.268,
+     "end": 35.64
+    },
+    {
+     "text": "and",
+     "start": 35.64,
+     "end": 35.864
+    },
+    {
+     "text": "D5.",
+     "start": 35.864,
+     "end": 36.608
+    }
+   ],
+   "phonemes": "tˌævəpˈædɑːn pɹˈɛsᵻz dˈɪfɹənt swˈɪtʃᵻz: dˈiː wˌʌn, ænd dˈiː fˈaɪv."
+  },
+  {
+   "id": "partial",
+   "start": 36.908,
+   "end": 40.96,
+   "words": [
+    {
+     "text": "It's",
+     "start": 36.908,
+     "end": 37.098
+    },
+    {
+     "text": "a",
+     "start": 37.098,
+     "end": 37.225
+    },
+    {
+     "text": "partial",
+     "start": 37.225,
+     "end": 37.605
+    },
+    {
+     "text": "agonist,",
+     "start": 37.605,
+     "end": 38.238
+    },
+    {
+     "text": "a",
+     "start": 38.238,
+     "end": 38.364
+    },
+    {
+     "text": "gentler",
+     "start": 38.364,
+     "end": 38.808
+    },
+    {
+     "text": "push,",
+     "start": 38.808,
+     "end": 39.187
+    },
+    {
+     "text": "with",
+     "start": 39.187,
+     "end": 39.377
+    },
+    {
+     "text": "a",
+     "start": 39.377,
+     "end": 39.504
+    },
+    {
+     "text": "half-life",
+     "start": 39.504,
+     "end": 39.947
+    },
+    {
+     "text": "of",
+     "start": 39.947,
+     "end": 40.074
+    },
+    {
+     "text": "about",
+     "start": 40.074,
+     "end": 40.39
+    },
+    {
+     "text": "a",
+     "start": 40.39,
+     "end": 40.517
+    },
+    {
+     "text": "day.",
+     "start": 40.517,
+     "end": 40.96
+    }
+   ],
+   "phonemes": "ɪts ɐ pˈɑːɹʃəl ˈæɡənˌɪst, ɐ dʒˈɛntlɚ pˈʊʃ, wɪð ɐ hˈæflˈaɪf ʌv ɐbˌaʊt ɐ dˈeɪ."
+  },
+  {
+   "id": "once",
+   "start": 41.11,
+   "end": 42.849,
+   "words": [
+    {
+     "text": "So",
+     "start": 41.11,
+     "end": 41.278
+    },
+    {
+     "text": "it's",
+     "start": 41.278,
+     "end": 41.447
+    },
+    {
+     "text": "one",
+     "start": 41.447,
+     "end": 41.615
+    },
+    {
+     "text": "tablet,",
+     "start": 41.615,
+     "end": 42.12
+    },
+    {
+     "text": "once",
+     "start": 42.12,
+     "end": 42.344
+    },
+    {
+     "text": "daily.",
+     "start": 42.344,
+     "end": 42.849
+    }
+   ],
+   "phonemes": "sˌoʊ ɪts wˈʌn tˈæblət, wˈʌns dˈeɪli."
+  },
+  {
+   "id": "trials",
+   "start": 43.299,
+   "end": 46.319,
+   "words": [
+    {
+     "text": "It",
+     "start": 43.299,
+     "end": 43.436
+    },
+    {
+     "text": "was",
+     "start": 43.436,
+     "end": 43.642
+    },
+    {
+     "text": "tested",
+     "start": 43.642,
+     "end": 44.054
+    },
+    {
+     "text": "in",
+     "start": 44.054,
+     "end": 44.191
+    },
+    {
+     "text": "three",
+     "start": 44.191,
+     "end": 44.397
+    },
+    {
+     "text": "phase",
+     "start": 44.397,
+     "end": 44.672
+    },
+    {
+     "text": "3",
+     "start": 44.672,
+     "end": 44.877
+    },
+    {
+     "text": "trials",
+     "start": 44.877,
+     "end": 45.358
+    },
+    {
+     "text": "called",
+     "start": 45.358,
+     "end": 45.632
+    },
+    {
+     "text": "TEMPO.",
+     "start": 45.632,
+     "end": 46.319
+    }
+   ],
+   "phonemes": "ɪt wʌz tˈɛstᵻd ɪn θɹˈiː fˈeɪz θɹˈiː tɹˈaɪəlz, kˈɔːld tˈɛmpoʊ."
+  },
+  {
+   "id": "alone",
+   "start": 46.619,
+   "end": 53.574,
+   "words": [
+    {
+     "text": "On",
+     "start": 46.619,
+     "end": 46.762
+    },
+    {
+     "text": "its",
+     "start": 46.762,
+     "end": 46.977
+    },
+    {
+     "text": "own,",
+     "start": 46.977,
+     "end": 47.407
+    },
+    {
+     "text": "in",
+     "start": 47.407,
+     "end": 47.551
+    },
+    {
+     "text": "early",
+     "start": 47.551,
+     "end": 47.766
+    },
+    {
+     "text": "Parkinson's,",
+     "start": 47.766,
+     "end": 48.698
+    },
+    {
+     "text": "movement",
+     "start": 48.698,
+     "end": 49.2
+    },
+    {
+     "text": "scores",
+     "start": 49.2,
+     "end": 49.558
+    },
+    {
+     "text": "improved",
+     "start": 49.558,
+     "end": 50.06
+    },
+    {
+     "text": "by",
+     "start": 50.06,
+     "end": 50.275
+    },
+    {
+     "text": "about",
+     "start": 50.275,
+     "end": 50.634
+    },
+    {
+     "text": "10",
+     "start": 50.634,
+     "end": 50.849
+    },
+    {
+     "text": "points,",
+     "start": 50.849,
+     "end": 51.494
+    },
+    {
+     "text": "while",
+     "start": 51.494,
+     "end": 51.781
+    },
+    {
+     "text": "placebo",
+     "start": 51.781,
+     "end": 52.355
+    },
+    {
+     "text": "got",
+     "start": 52.355,
+     "end": 52.57
+    },
+    {
+     "text": "slightly",
+     "start": 52.57,
+     "end": 53.072
+    },
+    {
+     "text": "worse.",
+     "start": 53.072,
+     "end": 53.574
+    }
+   ],
+   "phonemes": "ˌɔn ɪts ˈoʊn, ɪn ˈɜːli pˈɑːɹkɪnsənz, mˈuːvmənt skˈɔːɹz ɪmpɹˈuːvd baɪ ɐbˌaʊt tˈɛn pˈɔɪnts, wˌaɪl pləsˈiːboʊ ɡɑːt slˈaɪtli wˈɜːs."
+  },
+  {
+   "id": "addon",
+   "start": 53.874,
+   "end": 60.527,
+   "words": [
+    {
+     "text": "Added",
+     "start": 53.874,
+     "end": 54.151
+    },
+    {
+     "text": "to",
+     "start": 54.151,
+     "end": 54.29
+    },
+    {
+     "text": "levodopa,",
+     "start": 54.29,
+     "end": 55.121
+    },
+    {
+     "text": "patients",
+     "start": 55.121,
+     "end": 55.676
+    },
+    {
+     "text": "gained",
+     "start": 55.676,
+     "end": 56.022
+    },
+    {
+     "text": "about",
+     "start": 56.022,
+     "end": 56.369
+    },
+    {
+     "text": "one",
+     "start": 56.369,
+     "end": 56.577
+    },
+    {
+     "text": "extra",
+     "start": 56.577,
+     "end": 56.993
+    },
+    {
+     "text": "hour",
+     "start": 56.993,
+     "end": 57.201
+    },
+    {
+     "text": "a",
+     "start": 57.201,
+     "end": 57.339
+    },
+    {
+     "text": "day",
+     "start": 57.339,
+     "end": 57.547
+    },
+    {
+     "text": "of",
+     "start": 57.547,
+     "end": 57.686
+    },
+    {
+     "text": "good",
+     "start": 57.686,
+     "end": 57.894
+    },
+    {
+     "text": "movement,",
+     "start": 57.894,
+     "end": 58.587
+    },
+    {
+     "text": "without",
+     "start": 58.587,
+     "end": 59.003
+    },
+    {
+     "text": "troublesome",
+     "start": 59.003,
+     "end": 59.626
+    },
+    {
+     "text": "dyskinesia.",
+     "start": 59.626,
+     "end": 60.527
+    }
+   ],
+   "phonemes": "ˈædᵻd tə lˌɛvədˈoʊpə, pˈeɪʃənts ɡˈeɪnd ɐbˌaʊt wˈʌn ˈɛkstɹə ˈaʊɚɹ ɐ dˈeɪ ʌv ɡˈʊd mˈuːvmənt, wɪðˌaʊt tɹˈʌbəlsˌʌm dˌɪskɪnˈiːʒə."
+  },
+  {
+   "id": "side",
+   "start": 60.977,
+   "end": 64.719,
+   "words": [
+    {
+     "text": "The",
+     "start": 60.977,
+     "end": 61.109
+    },
+    {
+     "text": "most",
+     "start": 61.109,
+     "end": 61.437
+    },
+    {
+     "text": "common",
+     "start": 61.437,
+     "end": 61.765
+    },
+    {
+     "text": "side",
+     "start": 61.765,
+     "end": 62.028
+    },
+    {
+     "text": "effect?",
+     "start": 62.028,
+     "end": 62.619
+    },
+    {
+     "text": "Nausea.",
+     "start": 62.619,
+     "end": 63.209
+    },
+    {
+     "text": "Then",
+     "start": 63.209,
+     "end": 63.406
+    },
+    {
+     "text": "headache",
+     "start": 63.406,
+     "end": 63.8
+    },
+    {
+     "text": "and",
+     "start": 63.8,
+     "end": 63.997
+    },
+    {
+     "text": "dizziness.",
+     "start": 63.997,
+     "end": 64.719
+    }
+   ],
+   "phonemes": "ðə mˈoʊst kˈɑːmən sˈaɪd ɪfˈɛkt? nˈɔːsɪə. ðˈɛn hˈɛdeɪk ænd dˈɪzɪnəs."
+  },
+  {
+   "id": "warn",
+   "start": 65.019,
+   "end": 71.001,
+   "words": [
+    {
+     "text": "Watch",
+     "start": 65.019,
+     "end": 65.318
+    },
+    {
+     "text": "for",
+     "start": 65.318,
+     "end": 65.543
+    },
+    {
+     "text": "dizziness",
+     "start": 65.543,
+     "end": 66.066
+    },
+    {
+     "text": "on",
+     "start": 66.066,
+     "end": 66.215
+    },
+    {
+     "text": "standing,",
+     "start": 66.215,
+     "end": 66.963
+    },
+    {
+     "text": "hallucinations,",
+     "start": 66.963,
+     "end": 68.159
+    },
+    {
+     "text": "and",
+     "start": 68.159,
+     "end": 68.384
+    },
+    {
+     "text": "unusual",
+     "start": 68.384,
+     "end": 68.982
+    },
+    {
+     "text": "urges",
+     "start": 68.982,
+     "end": 69.356
+    },
+    {
+     "text": "like",
+     "start": 69.356,
+     "end": 69.655
+    },
+    {
+     "text": "gambling",
+     "start": 69.655,
+     "end": 70.178
+    },
+    {
+     "text": "or",
+     "start": 70.178,
+     "end": 70.328
+    },
+    {
+     "text": "shopping.",
+     "start": 70.328,
+     "end": 71.001
+    }
+   ],
+   "phonemes": "wˈɑːtʃ fɔːɹ dˈɪzɪnəs ˌɔn stˈændɪŋ, hɐlˌuːsᵻnˈeɪʃənz, ænd ʌnjˈuːʒuːəl ˈɜːdʒᵻz lˈaɪk ɡˈæmblɪŋ ɔːɹ ʃˈɑːpɪŋ."
+  },
+  {
+   "id": "tip",
+   "start": 71.451,
+   "end": 74.585,
+   "words": [
+    {
+     "text": "Pharmacist",
+     "start": 71.451,
+     "end": 72.078
+    },
+    {
+     "text": "tip:",
+     "start": 72.078,
+     "end": 72.496
+    },
+    {
+     "text": "check",
+     "start": 72.496,
+     "end": 72.774
+    },
+    {
+     "text": "for",
+     "start": 72.774,
+     "end": 72.983
+    },
+    {
+     "text": "CYP3A",
+     "start": 72.983,
+     "end": 73.54
+    },
+    {
+     "text": "interactions.",
+     "start": 73.54,
+     "end": 74.585
+    }
+   ],
+   "phonemes": "fˈɑːɹmɐsˌɪst tˈɪp: tʃˈɛk fɔːɹ sˈɪp θɹˈiː ˈeɪ ˌɪntɚɹˈækʃənz."
+  },
+  {
+   "id": "inter",
+   "start": 74.735,
+   "end": 79.057,
+   "words": [
+    {
+     "text": "Drugs",
+     "start": 74.735,
+     "end": 75.073
+    },
+    {
+     "text": "like",
+     "start": 75.073,
+     "end": 75.343
+    },
+    {
+     "text": "itraconazole",
+     "start": 75.343,
+     "end": 76.153
+    },
+    {
+     "text": "raise",
+     "start": 76.153,
+     "end": 76.423
+    },
+    {
+     "text": "its",
+     "start": 76.423,
+     "end": 76.626
+    },
+    {
+     "text": "levels.",
+     "start": 76.626,
+     "end": 77.301
+    },
+    {
+     "text": "Carbamazepine",
+     "start": 77.301,
+     "end": 78.247
+    },
+    {
+     "text": "lowers",
+     "start": 78.247,
+     "end": 78.584
+    },
+    {
+     "text": "them.",
+     "start": 78.584,
+     "end": 79.057
+    }
+   ],
+   "phonemes": "dɹˈʌɡz lˈaɪk ˌɪtɹəkˈɑːnəzˌoʊl ɹˈeɪz ɪts lˈɛvəlz. kˌɑːɹbəmˈæzəpˌiːn lˈoʊɚz ðˌɛm."
+  },
+  {
+   "id": "titrate",
+   "start": 79.357,
+   "end": 84.394,
+   "words": [
+    {
+     "text": "And",
+     "start": 79.357,
+     "end": 79.564
+    },
+    {
+     "text": "it",
+     "start": 79.564,
+     "end": 79.702
+    },
+    {
+     "text": "starts",
+     "start": 79.702,
+     "end": 80.116
+    },
+    {
+     "text": "low:",
+     "start": 80.116,
+     "end": 80.53
+    },
+    {
+     "text": "a",
+     "start": 80.53,
+     "end": 80.668
+    },
+    {
+     "text": "titration",
+     "start": 80.668,
+     "end": 81.358
+    },
+    {
+     "text": "pack",
+     "start": 81.358,
+     "end": 81.565
+    },
+    {
+     "text": "takes",
+     "start": 81.565,
+     "end": 81.91
+    },
+    {
+     "text": "about",
+     "start": 81.91,
+     "end": 82.255
+    },
+    {
+     "text": "six",
+     "start": 82.255,
+     "end": 82.531
+    },
+    {
+     "text": "weeks",
+     "start": 82.531,
+     "end": 82.807
+    },
+    {
+     "text": "to",
+     "start": 82.807,
+     "end": 82.945
+    },
+    {
+     "text": "reach",
+     "start": 82.945,
+     "end": 83.221
+    },
+    {
+     "text": "5",
+     "start": 83.221,
+     "end": 83.497
+    },
+    {
+     "text": "mg.",
+     "start": 83.497,
+     "end": 84.394
+    }
+   ],
+   "phonemes": "ænd ɪt stˈɑːɹts lˈoʊ: ɐ taɪtɹˈeɪʃən pˈæk tˈeɪks ɐbˌaʊt sˈɪks wˈiːks, tə ɹˈiːtʃ fˈaɪv mˈɪlɪɡɹˌæmz."
+  },
+  {
+   "id": "caveat",
+   "start": 84.844,
+   "end": 88.271,
+   "words": [
+    {
+     "text": "It",
+     "start": 84.844,
+     "end": 84.978
+    },
+    {
+     "text": "hasn't",
+     "start": 84.978,
+     "end": 85.381
+    },
+    {
+     "text": "been",
+     "start": 85.381,
+     "end": 85.583
+    },
+    {
+     "text": "tested",
+     "start": 85.583,
+     "end": 85.986
+    },
+    {
+     "text": "head-to-head",
+     "start": 85.986,
+     "end": 86.524
+    },
+    {
+     "text": "against",
+     "start": 86.524,
+     "end": 86.927
+    },
+    {
+     "text": "older",
+     "start": 86.927,
+     "end": 87.263
+    },
+    {
+     "text": "agonists",
+     "start": 87.263,
+     "end": 87.8
+    },
+    {
+     "text": "yet.",
+     "start": 87.8,
+     "end": 88.271
+    }
+   ],
+   "phonemes": "ɪt hˈæzənt bˌɪn tˈɛstᵻd hˈɛdtəhˈɛd ɐɡˈɛnst ˈoʊldɚɹ ˈæɡənˌɪsts jˈɛt."
+  },
+  {
+   "id": "option",
+   "start": 88.421,
+   "end": 90.066,
+   "words": [
+    {
+     "text": "So",
+     "start": 88.421,
+     "end": 88.58
+    },
+    {
+     "text": "it's",
+     "start": 88.58,
+     "end": 88.739
+    },
+    {
+     "text": "a",
+     "start": 88.739,
+     "end": 88.845
+    },
+    {
+     "text": "new",
+     "start": 88.845,
+     "end": 88.951
+    },
+    {
+     "text": "option,",
+     "start": 88.951,
+     "end": 89.376
+    },
+    {
+     "text": "not",
+     "start": 89.376,
+     "end": 89.535
+    },
+    {
+     "text": "a",
+     "start": 89.535,
+     "end": 89.642
+    },
+    {
+     "text": "cure.",
+     "start": 89.642,
+     "end": 90.066
+    }
+   ],
+   "phonemes": "sˌoʊ ɪts ɐ nˈuː ˈɑːpʃən, nˌɑːɾə kjˈʊɹ."
+  },
+  {
+   "id": "recap",
+   "start": 90.566,
+   "end": 94.259,
+   "words": [
+    {
+     "text": "New",
+     "start": 90.566,
+     "end": 90.7
+    },
+    {
+     "text": "target.",
+     "start": 90.7,
+     "end": 91.372
+    },
+    {
+     "text": "One",
+     "start": 91.372,
+     "end": 91.573
+    },
+    {
+     "text": "tablet",
+     "start": 91.573,
+     "end": 91.976
+    },
+    {
+     "text": "a",
+     "start": 91.976,
+     "end": 92.11
+    },
+    {
+     "text": "day.",
+     "start": 92.11,
+     "end": 92.58
+    },
+    {
+     "text": "More",
+     "start": 92.58,
+     "end": 92.782
+    },
+    {
+     "text": "choice",
+     "start": 92.782,
+     "end": 93.117
+    },
+    {
+     "text": "for",
+     "start": 93.117,
+     "end": 93.319
+    },
+    {
+     "text": "Parkinson's.",
+     "start": 93.319,
+     "end": 94.259
+    }
+   ],
+   "phonemes": "nˈuː tˈɑːɹɡɪt. wˈʌn tˈæblət ɐ dˈeɪ. mˈɔːɹ tʃˈɔɪs fɔːɹ pˈɑːɹkɪnsənz."
+  },
+  {
+   "id": "cta",
+   "start": 94.609,
+   "end": 97.788,
+   "words": [
+    {
+     "text": "Follow",
+     "start": 94.609,
+     "end": 94.933
+    },
+    {
+     "text": "Dr",
+     "start": 94.933,
+     "end": 95.258
+    },
+    {
+     "text": "Pharmacist",
+     "start": 95.258,
+     "end": 95.842
+    },
+    {
+     "text": "for",
+     "start": 95.842,
+     "end": 96.036
+    },
+    {
+     "text": "more",
+     "start": 96.036,
+     "end": 96.231
+    },
+    {
+     "text": "medicine,",
+     "start": 96.231,
+     "end": 96.88
+    },
+    {
+     "text": "made",
+     "start": 96.88,
+     "end": 97.139
+    },
+    {
+     "text": "simple.",
+     "start": 97.139,
+     "end": 97.788
+    }
+   ],
+   "phonemes": "fˈɑːloʊ dˈɑːktɚ fˈɑːɹmɐsˌɪst, fɔːɹ mˈɔːɹ mˈɛdəsən, mˌeɪd sˈɪmpəl."
+  }
+ ]
+}

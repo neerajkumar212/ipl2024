@@ -1,0 +1,156 @@
+{
+  "voice": "af_heart",
+  "speed": 1.04,
+  "lead_in": 0.35,
+  "ipa": {
+    "tavapadon": "tˌævəpˈædɑːn",
+    "Tavapadon": "tˌævəpˈædɑːn",
+    "pramipexole": "pɹˌæmɪpˈɛksoʊl",
+    "ropinirole": "ɹoʊpˈɪnɪɹˌoʊl",
+    "itraconazole": "ˌɪtɹəkˈɑːnəzˌoʊl",
+    "carbamazepine": "kˌɑːɹbəmˈæzəpˌiːn",
+    "dyskinesia": "dˌɪskɪnˈiːʒə",
+    "Clara": "klˈɑːɹə",
+    "FDA": "ˌɛfdˌiːˈeɪ"
+  },
+  "spoken": {
+    "2026": "twenty twenty-six",
+    "D1": "D one",
+    "D2": "D two",
+    "D3": "D three",
+    "D5": "D five",
+    "CYP3A": "sip three A",
+    "Dr": "doctor",
+    "5": "five",
+    "mg": "milligrams",
+    "10": "ten",
+    "3": "three"
+  },
+  "segments": [
+    {
+      "id": "hook",
+      "text": "A brand-new Parkinson's pill just got FDA approval… and it's the first of its kind.",
+      "say": "A brand new Parkinson's pill just got FDA approval... and it's the first of its kind.",
+      "pause": 0.35
+    },
+    {
+      "id": "intro",
+      "text": "Hi, I'm Clara from Dr Pharmacist.",
+      "say": "Hi, I'm Clara, from Doctor Pharmacist.",
+      "pause": 0.2
+    },
+    {
+      "id": "name",
+      "text": "It's called tavapadon, brand name Juvmo.",
+      "pause": 0.2
+    },
+    {
+      "id": "approved",
+      "text": "Approved in September 2026, for adults with Parkinson's disease.",
+      "say": "Approved in September twenty twenty-six, for adults with Parkinson's disease.",
+      "pause": 0.45
+    },
+    {
+      "id": "cells",
+      "text": "In Parkinson's, the brain cells that make dopamine slowly die.",
+      "pause": 0.2
+    },
+    {
+      "id": "symptoms",
+      "text": "Less dopamine means slow movement, stiffness and tremor.",
+      "pause": 0.45
+    },
+    {
+      "id": "switches",
+      "text": "Dopamine works by pressing receptors. Think of them as switches.",
+      "pause": 0.3
+    },
+    {
+      "id": "old",
+      "text": "Older agonists like pramipexole and ropinirole mostly press D2 and D3.",
+      "say": "Older agonists, like pramipexole and ropinirole, mostly press D two and D three.",
+      "pause": 0.3
+    },
+    {
+      "id": "new",
+      "text": "Tavapadon presses different switches: D1 and D5.",
+      "say": "Tavapadon presses different switches: D one, and D five.",
+      "pause": 0.3
+    },
+    {
+      "id": "partial",
+      "text": "It's a partial agonist, a gentler push, with a half-life of about a day.",
+      "pause": 0.15
+    },
+    {
+      "id": "once",
+      "text": "So it's one tablet, once daily.",
+      "pause": 0.45
+    },
+    {
+      "id": "trials",
+      "text": "It was tested in three phase 3 trials called TEMPO.",
+      "say": "It was tested in three phase three trials, called TEMPO.",
+      "pause": 0.3
+    },
+    {
+      "id": "alone",
+      "text": "On its own, in early Parkinson's, movement scores improved by about 10 points, while placebo got slightly worse.",
+      "say": "On its own, in early Parkinson's, movement scores improved by about ten points, while placebo got slightly worse.",
+      "pause": 0.3
+    },
+    {
+      "id": "addon",
+      "text": "Added to levodopa, patients gained about one extra hour a day of good movement, without troublesome dyskinesia.",
+      "pause": 0.45
+    },
+    {
+      "id": "side",
+      "text": "The most common side effect? Nausea. Then headache and dizziness.",
+      "pause": 0.3
+    },
+    {
+      "id": "warn",
+      "text": "Watch for dizziness on standing, hallucinations, and unusual urges like gambling or shopping.",
+      "pause": 0.45
+    },
+    {
+      "id": "tip",
+      "text": "Pharmacist tip: check for CYP3A interactions.",
+      "say": "Pharmacist tip: check for sip-3A interactions.",
+      "pause": 0.15
+    },
+    {
+      "id": "inter",
+      "text": "Drugs like itraconazole raise its levels. Carbamazepine lowers them.",
+      "pause": 0.3
+    },
+    {
+      "id": "titrate",
+      "text": "And it starts low: a titration pack takes about six weeks to reach 5 mg.",
+      "say": "And it starts low: a titration pack takes about six weeks, to reach five milligrams.",
+      "pause": 0.45
+    },
+    {
+      "id": "caveat",
+      "text": "It hasn't been tested head-to-head against older agonists yet.",
+      "pause": 0.15
+    },
+    {
+      "id": "option",
+      "text": "So it's a new option, not a cure.",
+      "pause": 0.5
+    },
+    {
+      "id": "recap",
+      "text": "New target. One tablet a day. More choice for Parkinson's.",
+      "pause": 0.35
+    },
+    {
+      "id": "cta",
+      "text": "Follow Dr Pharmacist for more medicine, made simple.",
+      "say": "Follow Doctor Pharmacist, for more medicine, made simple.",
+      "pause": 1.2
+    }
+  ]
+}

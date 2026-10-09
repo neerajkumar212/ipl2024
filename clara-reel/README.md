@@ -1,4 +1,30 @@
-# Dr Pharmacist · Clara reel — Nobel Prize 2026: Optogenetics
+# Dr Pharmacist · Clara reels
+
+## Episode 2: `ClaraTavapadon` (tavapadon / Juvmo for Parkinson's)
+
+A ≈100 s, 1080×1920 reel on the first selective D1/D5 agonist approved for Parkinson's (FDA, 25 Sep 2026).
+It reuses the V2 kit (Clara host, captions, transitions engine, SFX pack, logo sting).
+
+```console
+npx remotion render ClaraTavapadon out/v3.mp4 --crf=16
+```
+
+| Path | What it is |
+| --- | --- |
+| `src/data/v3script.json` | Script, spoken forms (`spoken`) and IPA for drug names |
+| `scripts/clara_voice.py` | Generic Clara voice builder: `python3 scripts/clara_voice.py kokoro-v1.0.onnx voices-v1.0.bin <script.json> <out.wav> <timing.json>` |
+| `scripts/v3_music.py` | Music bed for this episode (D minor), ducked under Clara |
+| `src/v3/` | 13 scenes (`scenesA.tsx`, `scenesB.tsx`), edit list + SFX (`ReelV3.tsx`), captions |
+
+Kokoro model files come from the kokoro-onnx GitHub release `model-files-v1.0`
+(`kokoro-v1.0.onnx`, `voices-v1.0.bin`).
+
+Sources: Juvmo prescribing information (2026); TEMPO-1 (n=529), TEMPO-2, TEMPO-3 (n=507) as reported by
+Drug Topics (28 Sep 2026), MedCentral and Drugs.com.
+
+---
+
+# Episode 1: Nobel Prize 2026, Optogenetics
 
 ## V2 (current): `ClaraOptogeneticsV2`
 

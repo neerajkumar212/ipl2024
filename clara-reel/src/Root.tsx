@@ -1,11 +1,20 @@
 import { Composition } from "remotion";
 import { ClaraReel } from "./ClaraReel";
 import { ReelV2, V2_SECONDS } from "./v2/ReelV2";
+import { ReelV3, V3_SECONDS } from "./v3/ReelV3";
 import { FPS, H, W } from "./theme";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="ClaraTavapadon"
+        component={ReelV3}
+        durationInFrames={Math.round(V3_SECONDS * FPS)}
+        fps={FPS}
+        width={W}
+        height={H}
+      />
       <Composition
         id="ClaraOptogeneticsV2"
         component={ReelV2}
