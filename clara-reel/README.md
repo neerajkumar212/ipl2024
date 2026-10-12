@@ -1,5 +1,28 @@
 # Dr Pharmacist · Clara reels
 
+## Episode 3: `ClaraWhoChildObesity` (WHO's first child & adolescent obesity guideline)
+
+A ≈98 s, 1080×1920 reel on WHO's first global guideline on obesity in children and teens (7 Oct 2026),
+including its rules on GLP-1 medicines. The edit follows the user's reference reel: Clara as the
+"talking head" on a dark studio backdrop, hard jump-cut punch-ins, bold uppercase captions, and
+rounded B-roll cards that pop in underneath. No flashes or light beams (user request).
+
+```console
+npx remotion render ClaraWhoChildObesity out/v4.mp4 --codec=h264 --crf=14 --x264-preset=slow --audio-bitrate=320k
+```
+
+| Path | What it is |
+| --- | --- |
+| `src/data/v4script.json` | Script; `say` holds the spoken forms ("twenty twenty-six", "W-H-O", "G L P one") |
+| `scripts/v4_music.py` | Music bed (A minor, 88 BPM), ducked under Clara |
+| `src/v4/cards.tsx`, `src/v4/art4.tsx` | The 16 B-roll cards and their SVG icon set |
+| `src/v4/ReelV4.tsx` | Card schedule, camera shots (jump cuts), captions, SFX |
+
+Sources: WHO guideline (7 Oct 2026) as reported by Forbes, Becker's, UN News, BBC and fundsforNGOs;
+Wegovy under-12 trial (Sept 2026) via Becker's; nutritional deficiency in pediatric GLP-1 users, Drug Topics (1 Oct 2026).
+
+---
+
 ## Episode 2: `ClaraTavapadon` (tavapadon / Juvmo for Parkinson's)
 
 A ≈100 s, 1080×1920 reel on the first selective D1/D5 agonist approved for Parkinson's (FDA, 25 Sep 2026).

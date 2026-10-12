@@ -1,0 +1,51 @@
+{
+  "voice": "af_heart",
+  "speed": 1.04,
+  "lead_in": 0.3,
+  "ipa": {
+    "Wegovy": "wiːɡˈoʊvi",
+    "quadrupled": "kwɑːdɹˈuːpəld",
+    "Clara": "klˈɑːɹə"
+  },
+  "spoken": {
+    "WHO": "W H O",
+    "WHO's": "W H O's",
+    "GLP-1": "G L P one",
+    "2026,": "twenty twenty-six",
+    "2024,": "twenty twenty-four",
+    "1990,": "nineteen ninety",
+    "170": "one hundred seventy",
+    "10:": "ten",
+    "10": "ten",
+    "19,": "nineteen",
+    "12": "twelve",
+    "2": "two",
+    "8": "eight",
+    "6": "six",
+    "7,": "seventh",
+    "Dr": "doctor"
+  },
+  "segments": [
+    { "id": "hook", "text": "Should a child take a weight-loss injection?", "pause": 0.35 },
+    { "id": "answer", "text": "For the first time ever, the World Health Organization has answered.", "pause": 0.4 },
+    { "id": "intro", "text": "Hi, I'm Clara, from Dr Pharmacist.", "say": "Hi, I'm Clara, from Doctor Pharmacist.", "pause": 0.25 },
+    { "id": "date", "text": "On October 7, 2026, WHO released its first global guideline on obesity in children and teens.", "say": "On October seventh, twenty twenty-six, the W-H-O released its first global guideline on obesity in children and teens.", "pause": 0.4 },
+    { "id": "scale", "text": "In 2024, about 170 million children and adolescents were living with obesity.", "say": "In twenty twenty-four, about one hundred and seventy million children and adolescents were living with obesity.", "pause": 0.3 },
+    { "id": "trend", "text": "Since 1990, that share has quadrupled, from 2 percent to 8 percent.", "say": "Since nineteen ninety, that share has quadrupled, from two percent, to eight percent.", "pause": 0.45 },
+    { "id": "rule", "text": "So what does WHO say?", "say": "So what does the W-H-O say?", "pause": 0.3 },
+    { "id": "under10", "text": "Under 10: no obesity medicines, no surgery, no weight-loss devices.", "say": "Under ten: no obesity medicines. No surgery. No weight-loss devices.", "pause": 0.4 },
+    { "id": "teens", "text": "From 10 to 19, approved medicines like GLP-1 drugs may be considered,", "say": "From ten to nineteen, approved medicines, like G L P one drugs, may be considered,", "pause": 0.15 },
+    { "id": "only", "text": "but only after a supervised lifestyle program hasn't worked.", "pause": 0.35 },
+    { "id": "surgery", "text": "Surgery? Only for severe obesity, under strict conditions.", "pause": 0.45 },
+    { "id": "why", "text": "Why so careful? These drugs are moving into younger kids, fast.", "pause": 0.3 },
+    { "id": "trial", "text": "Last month, a Wegovy trial in children under 12 reported that 2 in 5 no longer had obesity.", "say": "Last month, a Wegovy trial in children under twelve reported that two in five no longer had obesity.", "pause": 0.3 },
+    { "id": "caveat", "text": "Promising. But growing bodies still need long-term answers.", "pause": 0.45 },
+    { "id": "found", "text": "WHO's message is simple: the foundation of care is not medicine or surgery.", "say": "The W-H-O's message is simple: the foundation of care is not medicine, or surgery.", "pause": 0.25 },
+    { "id": "pillars", "text": "It's healthy food, activity, behavior change and mental health support, for the whole family.", "pause": 0.45 },
+    { "id": "tip", "text": "Pharmacist tip:", "pause": 0.2 },
+    { "id": "tip2", "text": "If your teen starts a GLP-1, ask about nausea, hydration and nutrition.", "say": "If your teen starts a G L P one, ask about nausea, hydration, and nutrition.", "pause": 0.25 },
+    { "id": "stat", "text": "One recent study found nearly 1 in 6 kids on these drugs had a nutritional deficiency.", "say": "One recent study found nearly one in six kids on these drugs had a nutritional deficiency.", "pause": 0.45 },
+    { "id": "cta", "text": "Should weight-loss drugs be an option for teens? Tell me in the comments.", "pause": 0.3 },
+    { "id": "outro", "text": "Save this for your next pharmacy visit. I'm Clara. Stay curious, stay healthy.", "pause": 0.6 }
+  ]
+}
