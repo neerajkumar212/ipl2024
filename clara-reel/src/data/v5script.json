@@ -1,0 +1,125 @@
+{
+  "voice": "af_heart",
+  "speed": 1.03,
+  "lead_in": 0.3,
+  "ipa": {
+    "Rylan": "ɹˈaɪlən",
+    "teratoma": "tˌɛɹətˈoʊmə",
+    "vecuronium": "vˌɛkjʊɹˈoʊniəm",
+    "Norcuron": "nˈɔːɹkjʊɹɑːn",
+    "Clara": "klˈɑːɹə"
+  },
+  "spoken": {
+    "25": "twenty-five",
+    "26": "twenty-six",
+    "36": "thirty-six",
+    "2021,": "twenty twenty-one",
+    "100,000": "one hundred thousand",
+    "Dr": "doctor",
+    "10": "ten",
+    "1": "one"
+  },
+  "segments": [
+    {
+      "id": "hook",
+      "text": "This baby had heart surgery… before he was even born.",
+      "say": "This baby had heart surgery... before he was even born.",
+      "pause": 0.4
+    },
+    {
+      "id": "intro",
+      "text": "Hi, I'm Clara, from Dr Pharmacist.",
+      "say": "Hi, I'm Clara, from Doctor Pharmacist.",
+      "pause": 0.2
+    },
+    {
+      "id": "meet",
+      "text": "Meet Rylan.",
+      "pause": 0.3
+    },
+    {
+      "id": "scan",
+      "text": "At 25 weeks, a scan found a rare tumor, a teratoma, pressing on his heart.",
+      "say": "At twenty-five weeks, a scan found a rare tumor, a teratoma, pressing on his heart.",
+      "pause": 0.25
+    },
+    {
+      "id": "failing",
+      "text": "Fluid was building up. His tiny heart was starting to fail.",
+      "pause": 0.3
+    },
+    {
+      "id": "rare",
+      "text": "It happens in fewer than 1 in 100,000 pregnancies.",
+      "say": "It happens in fewer than one in one hundred thousand pregnancies.",
+      "pause": 0.4
+    },
+    {
+      "id": "decide",
+      "text": "So in May 2021, at Cleveland Clinic, surgeons operated at 26 weeks.",
+      "say": "So in May, twenty twenty-one, at Cleveland Clinic, surgeons operated at twenty-six weeks.",
+      "pause": 0.25
+    },
+    {
+      "id": "how",
+      "text": "They opened the womb, removed the tumor from his chest,",
+      "pause": 0.15
+    },
+    {
+      "id": "back",
+      "text": "and placed him back inside.",
+      "pause": 0.45
+    },
+    {
+      "id": "pharm",
+      "text": "Here's the pharmacy part: in fetal surgery, the baby is a patient too.",
+      "pause": 0.25
+    },
+    {
+      "id": "meds",
+      "text": "He gets his own medicines. A strong pain reliever,",
+      "pause": 0.15
+    },
+    {
+      "id": "para",
+      "text": "and a paralytic like vecuronium, brand name Norcuron, so he stays perfectly still.",
+      "pause": 0.45
+    },
+    {
+      "id": "room",
+      "text": "Then? No recovery room.",
+      "pause": 0.2
+    },
+    {
+      "id": "womb",
+      "text": "He recovered in the womb.",
+      "pause": 0.4
+    },
+    {
+      "id": "born",
+      "text": "About 10 weeks later, Rylan was born at 36 weeks, and went home within days.",
+      "say": "About ten weeks later, Rylan was born at thirty-six weeks, and went home within days.",
+      "pause": 0.3
+    },
+    {
+      "id": "second",
+      "text": "Only the second center in the world to pull this off.",
+      "pause": 0.45
+    },
+    {
+      "id": "close",
+      "text": "A patient is a patient, no matter how small.",
+      "pause": 0.45
+    },
+    {
+      "id": "cta",
+      "text": "Would you trust surgery before birth? Tell me in the comments.",
+      "pause": 0.3
+    },
+    {
+      "id": "outro",
+      "text": "I'm Clara. Stay curious, stay healthy.",
+      "pause": 0.6
+    }
+  ]
+}
