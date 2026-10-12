@@ -1,0 +1,923 @@
+{
+ "total": 53.83,
+ "segments": [
+  {
+   "id": "hook",
+   "start": 0.35,
+   "end": 4.332,
+   "words": [
+    {
+     "text": "Baby",
+     "start": 0.35,
+     "end": 0.712
+    },
+    {
+     "text": "Rylan",
+     "start": 0.712,
+     "end": 1.146
+    },
+    {
+     "text": "had",
+     "start": 1.146,
+     "end": 1.364
+    },
+    {
+     "text": "open",
+     "start": 1.364,
+     "end": 1.726
+    },
+    {
+     "text": "heart",
+     "start": 1.726,
+     "end": 2.015
+    },
+    {
+     "text": "surgery…",
+     "start": 2.015,
+     "end": 2.812
+    },
+    {
+     "text": "inside",
+     "start": 2.812,
+     "end": 3.246
+    },
+    {
+     "text": "his",
+     "start": 3.246,
+     "end": 3.463
+    },
+    {
+     "text": "mother's",
+     "start": 3.463,
+     "end": 3.825
+    },
+    {
+     "text": "womb.",
+     "start": 3.825,
+     "end": 4.332
+    }
+   ],
+   "phonemes": "bˈeɪbi ɹˈaɪlən hæd ˈoʊpən hˈɑːɹt sˈɜːdʒɚɹi... ɪnsˈaɪd hɪz mˈʌðɚz wˈuːm."
+  },
+  {
+   "id": "intro",
+   "start": 4.782,
+   "end": 7.246,
+   "words": [
+    {
+     "text": "Hi,",
+     "start": 4.782,
+     "end": 5.161
+    },
+    {
+     "text": "I'm",
+     "start": 5.161,
+     "end": 5.351
+    },
+    {
+     "text": "Clara,",
+     "start": 5.351,
+     "end": 5.856
+    },
+    {
+     "text": "from",
+     "start": 5.856,
+     "end": 6.109
+    },
+    {
+     "text": "Dr",
+     "start": 6.109,
+     "end": 6.425
+    },
+    {
+     "text": "Pharmacist.",
+     "start": 6.425,
+     "end": 7.246
+    }
+   ],
+   "phonemes": "hˈaɪ, aɪm klˈɑːɹə, fɹʌm dˈɑːktɚ fˈɑːɹmɐsˌɪst."
+  },
+  {
+   "id": "weeks",
+   "start": 7.546,
+   "end": 9.747,
+   "words": [
+    {
+     "text": "Rylan",
+     "start": 7.546,
+     "end": 7.913
+    },
+    {
+     "text": "was",
+     "start": 7.913,
+     "end": 8.096
+    },
+    {
+     "text": "only",
+     "start": 8.096,
+     "end": 8.402
+    },
+    {
+     "text": "26",
+     "start": 8.402,
+     "end": 9.013
+    },
+    {
+     "text": "weeks",
+     "start": 9.013,
+     "end": 9.258
+    },
+    {
+     "text": "along.",
+     "start": 9.258,
+     "end": 9.747
+    }
+   ],
+   "phonemes": "ɹˈaɪlən wʌz ˈoʊnli twˈɛntisˈɪks wˈiːks ɐlˈɔŋ."
+  },
+  {
+   "id": "tumor",
+   "start": 9.997,
+   "end": 12.957,
+   "words": [
+    {
+     "text": "A",
+     "start": 9.997,
+     "end": 10.134
+    },
+    {
+     "text": "tumor",
+     "start": 10.134,
+     "end": 10.41
+    },
+    {
+     "text": "called",
+     "start": 10.41,
+     "end": 10.685
+    },
+    {
+     "text": "a",
+     "start": 10.685,
+     "end": 10.823
+    },
+    {
+     "text": "teratoma",
+     "start": 10.823,
+     "end": 11.443
+    },
+    {
+     "text": "was",
+     "start": 11.443,
+     "end": 11.649
+    },
+    {
+     "text": "growing",
+     "start": 11.649,
+     "end": 12.062
+    },
+    {
+     "text": "on",
+     "start": 12.062,
+     "end": 12.2
+    },
+    {
+     "text": "his",
+     "start": 12.2,
+     "end": 12.407
+    },
+    {
+     "text": "heart.",
+     "start": 12.407,
+     "end": 12.957
+    }
+   ],
+   "phonemes": "ɐ tˈuːmɚ kˈɔːld ɐ tˌɛɹətˈoʊmə wʌz ɡɹˈoʊɪŋ ˌɔn hɪz hˈɑːɹt."
+  },
+  {
+   "id": "danger",
+   "start": 13.257,
+   "end": 15.879,
+   "words": [
+    {
+     "text": "Without",
+     "start": 13.257,
+     "end": 13.607
+    },
+    {
+     "text": "help,",
+     "start": 13.607,
+     "end": 14.015
+    },
+    {
+     "text": "it",
+     "start": 14.015,
+     "end": 14.131
+    },
+    {
+     "text": "could",
+     "start": 14.131,
+     "end": 14.306
+    },
+    {
+     "text": "have",
+     "start": 14.306,
+     "end": 14.481
+    },
+    {
+     "text": "killed",
+     "start": 14.481,
+     "end": 14.714
+    },
+    {
+     "text": "him",
+     "start": 14.714,
+     "end": 14.889
+    },
+    {
+     "text": "in",
+     "start": 14.889,
+     "end": 15.005
+    },
+    {
+     "text": "1",
+     "start": 15.005,
+     "end": 15.18
+    },
+    {
+     "text": "to",
+     "start": 15.18,
+     "end": 15.297
+    },
+    {
+     "text": "2",
+     "start": 15.297,
+     "end": 15.413
+    },
+    {
+     "text": "weeks.",
+     "start": 15.413,
+     "end": 15.879
+    }
+   ],
+   "phonemes": "wɪðˌaʊt hˈɛlp, ɪt kˌʊdɐv kˈɪld hˌɪm ɪn wˈʌn tə tˈuː wˈiːks."
+  },
+  {
+   "id": "decide",
+   "start": 16.329,
+   "end": 18.751,
+   "words": [
+    {
+     "text": "So",
+     "start": 16.329,
+     "end": 16.507
+    },
+    {
+     "text": "his",
+     "start": 16.507,
+     "end": 16.684
+    },
+    {
+     "text": "doctors",
+     "start": 16.684,
+     "end": 17.038
+    },
+    {
+     "text": "and",
+     "start": 17.038,
+     "end": 17.215
+    },
+    {
+     "text": "parents",
+     "start": 17.215,
+     "end": 17.629
+    },
+    {
+     "text": "made",
+     "start": 17.629,
+     "end": 17.865
+    },
+    {
+     "text": "a",
+     "start": 17.865,
+     "end": 17.983
+    },
+    {
+     "text": "bold",
+     "start": 17.983,
+     "end": 18.279
+    },
+    {
+     "text": "choice:",
+     "start": 18.279,
+     "end": 18.751
+    }
+   ],
+   "phonemes": "sˌoʊ hɪz dˈɑːktɚz ænd pˈɛɹənts mˌeɪd ɐ bˈoʊld tʃˈɔɪs:"
+  },
+  {
+   "id": "operate",
+   "start": 18.901,
+   "end": 20.47,
+   "words": [
+    {
+     "text": "operate",
+     "start": 18.901,
+     "end": 19.324
+    },
+    {
+     "text": "on",
+     "start": 19.324,
+     "end": 19.444
+    },
+    {
+     "text": "Rylan",
+     "start": 19.444,
+     "end": 19.806
+    },
+    {
+     "text": "in",
+     "start": 19.806,
+     "end": 19.927
+    },
+    {
+     "text": "the",
+     "start": 19.927,
+     "end": 20.048
+    },
+    {
+     "text": "womb.",
+     "start": 20.048,
+     "end": 20.47
+    }
+   ],
+   "phonemes": "ˈɑːpɚɹˌeɪt ˌɔn ɹˈaɪlən ɪnðə wˈuːm."
+  },
+  {
+   "id": "surgery",
+   "start": 20.87,
+   "end": 24.773,
+   "words": [
+    {
+     "text": "Surgeons",
+     "start": 20.87,
+     "end": 21.349
+    },
+    {
+     "text": "opened",
+     "start": 21.349,
+     "end": 21.76
+    },
+    {
+     "text": "the",
+     "start": 21.76,
+     "end": 21.897
+    },
+    {
+     "text": "womb,",
+     "start": 21.897,
+     "end": 22.308
+    },
+    {
+     "text": "and",
+     "start": 22.308,
+     "end": 22.513
+    },
+    {
+     "text": "removed",
+     "start": 22.513,
+     "end": 22.924
+    },
+    {
+     "text": "the",
+     "start": 22.924,
+     "end": 23.061
+    },
+    {
+     "text": "tumor",
+     "start": 23.061,
+     "end": 23.335
+    },
+    {
+     "text": "from",
+     "start": 23.335,
+     "end": 23.609
+    },
+    {
+     "text": "his",
+     "start": 23.609,
+     "end": 23.814
+    },
+    {
+     "text": "tiny",
+     "start": 23.814,
+     "end": 24.157
+    },
+    {
+     "text": "chest.",
+     "start": 24.157,
+     "end": 24.773
+    }
+   ],
+   "phonemes": "sˈɜːdʒənz ˈoʊpənd ðə wˈuːm, ænd ɹᵻmˈuːvd ðə tˈuːmɚ fɹʌm hɪz tˈaɪni tʃˈɛst."
+  },
+  {
+   "id": "iv",
+   "start": 25.073,
+   "end": 29.047,
+   "words": [
+    {
+     "text": "He",
+     "start": 25.073,
+     "end": 25.208
+    },
+    {
+     "text": "even",
+     "start": 25.208,
+     "end": 25.477
+    },
+    {
+     "text": "had",
+     "start": 25.477,
+     "end": 25.679
+    },
+    {
+     "text": "his",
+     "start": 25.679,
+     "end": 25.881
+    },
+    {
+     "text": "own",
+     "start": 25.881,
+     "end": 26.083
+    },
+    {
+     "text": "IV",
+     "start": 26.083,
+     "end": 26.353
+    },
+    {
+     "text": "in",
+     "start": 26.353,
+     "end": 26.487
+    },
+    {
+     "text": "his",
+     "start": 26.487,
+     "end": 26.69
+    },
+    {
+     "text": "hand,",
+     "start": 26.69,
+     "end": 27.161
+    },
+    {
+     "text": "to",
+     "start": 27.161,
+     "end": 27.296
+    },
+    {
+     "text": "keep",
+     "start": 27.296,
+     "end": 27.498
+    },
+    {
+     "text": "him",
+     "start": 27.498,
+     "end": 27.7
+    },
+    {
+     "text": "comfortable",
+     "start": 27.7,
+     "end": 28.306
+    },
+    {
+     "text": "and",
+     "start": 28.306,
+     "end": 28.508
+    },
+    {
+     "text": "still.",
+     "start": 28.508,
+     "end": 29.047
+    }
+   ],
+   "phonemes": "hiː ˈiːvən hæd hɪz ˈoʊn ˈaɪvˈiː ɪn hɪz hˈænd, tə kˈiːp hˌɪm kˈʌmftəbəl ænd stˈɪl."
+  },
+  {
+   "id": "room",
+   "start": 29.497,
+   "end": 31.844,
+   "words": [
+    {
+     "text": "And",
+     "start": 29.497,
+     "end": 29.693
+    },
+    {
+     "text": "after",
+     "start": 29.693,
+     "end": 29.953
+    },
+    {
+     "text": "surgery?",
+     "start": 29.953,
+     "end": 30.67
+    },
+    {
+     "text": "No",
+     "start": 30.67,
+     "end": 30.866
+    },
+    {
+     "text": "recovery",
+     "start": 30.866,
+     "end": 31.387
+    },
+    {
+     "text": "room.",
+     "start": 31.387,
+     "end": 31.844
+    }
+   ],
+   "phonemes": "ænd ˈæftɚ sˈɜːdʒɚɹi? nˈoʊ ɹᵻkˈʌvɚɹi ɹˈuːm."
+  },
+  {
+   "id": "rwomb",
+   "start": 32.044,
+   "end": 33.982,
+   "words": [
+    {
+     "text": "Rylan",
+     "start": 32.044,
+     "end": 32.407
+    },
+    {
+     "text": "went",
+     "start": 32.407,
+     "end": 32.649
+    },
+    {
+     "text": "back",
+     "start": 32.649,
+     "end": 32.831
+    },
+    {
+     "text": "to",
+     "start": 32.831,
+     "end": 32.952
+    },
+    {
+     "text": "the",
+     "start": 32.952,
+     "end": 33.073
+    },
+    {
+     "text": "recovery",
+     "start": 33.073,
+     "end": 33.558
+    },
+    {
+     "text": "womb.",
+     "start": 33.558,
+     "end": 33.982
+    }
+   ],
+   "phonemes": "ɹˈaɪlən wɛnt bˈæk tə ðə ɹᵻkˈʌvɚɹi wˈuːm."
+  },
+  {
+   "id": "heal",
+   "start": 34.382,
+   "end": 38.375,
+   "words": [
+    {
+     "text": "He",
+     "start": 34.382,
+     "end": 34.519
+    },
+    {
+     "text": "healed",
+     "start": 34.519,
+     "end": 34.795
+    },
+    {
+     "text": "there",
+     "start": 34.795,
+     "end": 35.001
+    },
+    {
+     "text": "for",
+     "start": 35.001,
+     "end": 35.208
+    },
+    {
+     "text": "about",
+     "start": 35.208,
+     "end": 35.552
+    },
+    {
+     "text": "10",
+     "start": 35.552,
+     "end": 35.759
+    },
+    {
+     "text": "more",
+     "start": 35.759,
+     "end": 35.965
+    },
+    {
+     "text": "weeks,",
+     "start": 35.965,
+     "end": 36.447
+    },
+    {
+     "text": "and",
+     "start": 36.447,
+     "end": 36.654
+    },
+    {
+     "text": "was",
+     "start": 36.654,
+     "end": 36.86
+    },
+    {
+     "text": "born",
+     "start": 36.86,
+     "end": 37.136
+    },
+    {
+     "text": "at",
+     "start": 37.136,
+     "end": 37.274
+    },
+    {
+     "text": "36",
+     "start": 37.274,
+     "end": 37.824
+    },
+    {
+     "text": "weeks.",
+     "start": 37.824,
+     "end": 38.375
+    }
+   ],
+   "phonemes": "hiː hˈiːld ðɛɹ fɔːɹ ɐbˌaʊt tˈɛn mˈɔːɹ wˈiːks, ænd wʌz bˈɔːɹn æt θˈɜːɾisˈɪks wˈiːks."
+  },
+  {
+   "id": "second",
+   "start": 38.725,
+   "end": 41.37,
+   "words": [
+    {
+     "text": "It",
+     "start": 38.725,
+     "end": 38.84
+    },
+    {
+     "text": "was",
+     "start": 38.84,
+     "end": 39.013
+    },
+    {
+     "text": "only",
+     "start": 39.013,
+     "end": 39.3
+    },
+    {
+     "text": "the",
+     "start": 39.3,
+     "end": 39.415
+    },
+    {
+     "text": "second",
+     "start": 39.415,
+     "end": 39.76
+    },
+    {
+     "text": "success",
+     "start": 39.76,
+     "end": 40.105
+    },
+    {
+     "text": "of",
+     "start": 40.105,
+     "end": 40.22
+    },
+    {
+     "text": "its",
+     "start": 40.22,
+     "end": 40.393
+    },
+    {
+     "text": "kind",
+     "start": 40.393,
+     "end": 40.68
+    },
+    {
+     "text": "in",
+     "start": 40.68,
+     "end": 40.795
+    },
+    {
+     "text": "the",
+     "start": 40.795,
+     "end": 40.91
+    },
+    {
+     "text": "world.",
+     "start": 40.91,
+     "end": 41.37
+    }
+   ],
+   "phonemes": "ɪt wʌz ˈoʊnli ðə sˈɛkənd səksˈɛs ʌv ɪts kˈaɪnd ɪnðə wˈɜːld."
+  },
+  {
+   "id": "close1",
+   "start": 41.87,
+   "end": 45.807,
+   "words": [
+    {
+     "text": "If",
+     "start": 41.87,
+     "end": 42.001
+    },
+    {
+     "text": "we",
+     "start": 42.001,
+     "end": 42.133
+    },
+    {
+     "text": "can",
+     "start": 42.133,
+     "end": 42.329
+    },
+    {
+     "text": "operate",
+     "start": 42.329,
+     "end": 42.789
+    },
+    {
+     "text": "on",
+     "start": 42.789,
+     "end": 42.92
+    },
+    {
+     "text": "a",
+     "start": 42.92,
+     "end": 43.051
+    },
+    {
+     "text": "baby",
+     "start": 43.051,
+     "end": 43.379
+    },
+    {
+     "text": "inside",
+     "start": 43.379,
+     "end": 43.773
+    },
+    {
+     "text": "the",
+     "start": 43.773,
+     "end": 43.904
+    },
+    {
+     "text": "womb,",
+     "start": 43.904,
+     "end": 44.298
+    },
+    {
+     "text": "that",
+     "start": 44.298,
+     "end": 44.495
+    },
+    {
+     "text": "baby",
+     "start": 44.495,
+     "end": 44.823
+    },
+    {
+     "text": "is",
+     "start": 44.823,
+     "end": 44.954
+    },
+    {
+     "text": "a",
+     "start": 44.954,
+     "end": 45.086
+    },
+    {
+     "text": "patient.",
+     "start": 45.086,
+     "end": 45.807
+    }
+   ],
+   "phonemes": "ɪf wiː kæn ˈɑːpɚɹˌeɪt ˌɔn ɐ bˈeɪbi ɪnsˈaɪd ðə wˈuːm, ðæt bˈeɪbi ɪz ɐ pˈeɪʃənt."
+  },
+  {
+   "id": "close2",
+   "start": 46.107,
+   "end": 48.788,
+   "words": [
+    {
+     "text": "And",
+     "start": 46.107,
+     "end": 46.299
+    },
+    {
+     "text": "a",
+     "start": 46.299,
+     "end": 46.427
+    },
+    {
+     "text": "patient",
+     "start": 46.427,
+     "end": 46.873
+    },
+    {
+     "text": "is",
+     "start": 46.873,
+     "end": 47.001
+    },
+    {
+     "text": "a",
+     "start": 47.001,
+     "end": 47.129
+    },
+    {
+     "text": "person,",
+     "start": 47.129,
+     "end": 47.639
+    },
+    {
+     "text": "no",
+     "start": 47.639,
+     "end": 47.831
+    },
+    {
+     "text": "matter",
+     "start": 47.831,
+     "end": 48.086
+    },
+    {
+     "text": "how",
+     "start": 48.086,
+     "end": 48.277
+    },
+    {
+     "text": "small.",
+     "start": 48.277,
+     "end": 48.788
+    }
+   ],
+   "phonemes": "ænd ɐ pˈeɪʃənt ɪz ɐ pˈɜːsən, nˈoʊ mˈæɾɚ hˌaʊ smˈɔːl."
+  },
+  {
+   "id": "cta",
+   "start": 49.388,
+   "end": 52.43,
+   "words": [
+    {
+     "text": "Follow",
+     "start": 49.388,
+     "end": 49.742
+    },
+    {
+     "text": "Dr",
+     "start": 49.742,
+     "end": 50.095
+    },
+    {
+     "text": "Pharmacist",
+     "start": 50.095,
+     "end": 50.732
+    },
+    {
+     "text": "for",
+     "start": 50.732,
+     "end": 50.944
+    },
+    {
+     "text": "more",
+     "start": 50.944,
+     "end": 51.156
+    },
+    {
+     "text": "content",
+     "start": 51.156,
+     "end": 51.652
+    },
+    {
+     "text": "like",
+     "start": 51.652,
+     "end": 51.935
+    },
+    {
+     "text": "this.",
+     "start": 51.935,
+     "end": 52.43
+    }
+   ],
+   "phonemes": "fˈɑːloʊ dˈɑːktɚ fˈɑːɹmɐsˌɪst, fɔːɹ mˈɔːɹ kˈɑːntɛnt lˈaɪk ðˈɪs."
+  }
+ ]
+}

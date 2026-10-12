@@ -1,0 +1,108 @@
+{
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lead_in": 0.35,
+  "ipa": {
+    "Rylan": "ɹˈaɪlən",
+    "teratoma": "tˌɛɹətˈoʊmə",
+    "Clara": "klˈɑːɹə"
+  },
+  "spoken": {
+    "26": "twenty-six",
+    "36": "thirty-six",
+    "1": "one",
+    "2": "two",
+    "10": "ten",
+    "Dr": "doctor",
+    "IV": "eye vee"
+  },
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Baby Rylan had open heart surgery… inside his mother's womb.",
+      "say": "Baby Rylan had open heart surgery... inside his mother's womb.",
+      "pause": 0.45
+    },
+    {
+      "id": "intro",
+      "text": "Hi, I'm Clara, from Dr Pharmacist.",
+      "say": "Hi, I'm Clara, from Doctor Pharmacist.",
+      "pause": 0.3
+    },
+    {
+      "id": "weeks",
+      "text": "Rylan was only 26 weeks along.",
+      "say": "Rylan was only twenty-six weeks along.",
+      "pause": 0.25
+    },
+    {
+      "id": "tumor",
+      "text": "A tumor called a teratoma was growing on his heart.",
+      "pause": 0.3
+    },
+    {
+      "id": "danger",
+      "text": "Without help, it could have killed him in 1 to 2 weeks.",
+      "say": "Without help, it could have killed him in one to two weeks.",
+      "pause": 0.45
+    },
+    {
+      "id": "decide",
+      "text": "So his doctors and parents made a bold choice:",
+      "pause": 0.15
+    },
+    {
+      "id": "operate",
+      "text": "operate on Rylan in the womb.",
+      "pause": 0.4
+    },
+    {
+      "id": "surgery",
+      "text": "Surgeons opened the womb, and removed the tumor from his tiny chest.",
+      "pause": 0.3
+    },
+    {
+      "id": "iv",
+      "text": "He even had his own IV in his hand, to keep him comfortable and still.",
+      "pause": 0.45,
+      "say": "He even had his own eye-vee in his hand, to keep him comfortable and still."
+    },
+    {
+      "id": "room",
+      "text": "And after surgery? No recovery room.",
+      "pause": 0.2
+    },
+    {
+      "id": "rwomb",
+      "text": "Rylan went back to the recovery womb.",
+      "pause": 0.4
+    },
+    {
+      "id": "heal",
+      "text": "He healed there for about 10 more weeks, and was born at 36 weeks.",
+      "say": "He healed there for about ten more weeks, and was born at thirty-six weeks.",
+      "pause": 0.35
+    },
+    {
+      "id": "second",
+      "text": "It was only the second success of its kind in the world.",
+      "pause": 0.5
+    },
+    {
+      "id": "close1",
+      "text": "If we can operate on a baby inside the womb, that baby is a patient.",
+      "pause": 0.3
+    },
+    {
+      "id": "close2",
+      "text": "And a patient is a person, no matter how small.",
+      "pause": 0.6
+    },
+    {
+      "id": "cta",
+      "text": "Follow Dr Pharmacist for more content like this.",
+      "say": "Follow Doctor Pharmacist, for more content like this.",
+      "pause": 1.4
+    }
+  ]
+}

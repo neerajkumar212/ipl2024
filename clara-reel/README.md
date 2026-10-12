@@ -135,3 +135,20 @@ the envelope, and change the `narration` default prop in `src/Root.tsx`.
 - FDA accepted Nanoscope's BLA for MCO-010 (Mogenry, sonpiretigene isteparvovec), an optogenetic
   intravitreal gene therapy for retinitis pigmentosa, in September 2026. It is under review, not
   approved, and the reel says so on screen.
+
+## Ep4 premium: Baby Rylan (`ClaraBabyRylanPremium`, `src/v6`)
+
+Fetal open-heart surgery story, told beat for beat from the reference video (no pharmacy segment).
+Built on the Ep2 engine (`v2/Stage`, Ep2 captions, docked Clara, bug, progress bar) with new 3D-style
+SVG art in `src/v6/art6.tsx` (womb, beating heart with teratoma, ECG) and library clips from
+`public/ep4` in glass frames. Cuts are whip, zoom, iris and glitch only: no `flash`, no
+`lightwipe`, no `Beam` or `Flash` components. Ending: D/P logo sting, wordmark and a Follow button
+that turns to "Following" after the narration ends.
+
+Weeks follow Cleveland Clinic's account (surgery at 26 weeks, born at 36); the reference video says 27 and 37.
+
+```
+npx remotion render src/index.ts ClaraBabyRylanPremium out/ep4_4k.mp4 --scale=2 --codec=h264 --crf=14 \
+  --x264-preset=slow --pixel-format=yuv420p --audio-codec=aac --audio-bitrate=320k
+```
+Then loudnorm to -14 LUFS (`I=-14:TP=-1.5:LRA=11`).
